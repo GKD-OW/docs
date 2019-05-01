@@ -27,3 +27,4 @@ lang: zh-CN
 | --- | ---- | --- | ----- |
 | 多拉多 | 开始于进攻方A点 | 未知 | 019D2（PTR） |
 | 艾兴瓦尔德 | 开始于进攻方A点 | 未知 | YVB13（PTR） |
+| 竞速赛 | 地图：66号公路、多拉多、渣客镇、<br>监测站：直布罗陀、里阿尔托；<br>英雄：破坏球、卢西奥、黑百合；<br>随机产生加速环与冰冻陷阱 | [Daniel Fenner](https://twitter.com/DanielFenner) & [Dane Fairbanks](https://twitter.com/danefairbanks) | Q8KT7（PTR） |
