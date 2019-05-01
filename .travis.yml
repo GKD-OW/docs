@@ -1,0 +1,24 @@
+language: node_js
+node_js:
+  - 'node'
+
+notifications:
+  email: false
+
+before_cache:
+  - rm -rf node_modules/.cache
+
+cache:
+  directories:
+    - $HOME/.composer/cache/files
+
+install:
+  - curl -o- -L https://yarnpkg.com/install.sh | bash
+  - export PATH="$HOME/.yarn/bin:$PATH"
+
+script:
+  - bash ci/build.sh
+
+env:
+  global:
+    - secure: "EG9YdarGcCo5o4yBE0otA005RgirFAVg1VCVY9CsA4FdC4/icqZPoS/+h5t5huaCwipb0v4PM4C/eypxQMPBQg/1aauhGihts/DsRVUop6ROtdJ7Fu2j9Ma8945MyciiuguQrJJM9ciQv4aI7VDp4yjxEf3HMllueb9+NO+P4IUttwmZ26BHwymOsCXecticbsU/GLnA/ta2A/W4L8KiyAcvO2SmsMybcPsrt05YT6auvEl/C5QHUTvP1+/01kXbPeuONlkMgUegCRyyPyixXLhLQixYyQD+IMiK0xzFL21elofKqHfmUulov6M4VIcFiY7BpzqkHhKxhAjC4Hb128tEeqHpUX+P++4VsIbk1tBpHmY1Xb/E9HLYx+QpoYwc/D72CUjqljTXKkT0FeFgthDHNDO6vMKo1z5ZVz8RHYN7fokyEafyqU8boXg38YHydOCGhFB8vzSNrD6s7SmF0pqYps32YYyjJvuVQY7NraSkp/bNDtKVbOhwtF8SXPZP/lIiKBDVK/DuDaTXCRXV8YNxcVht906C8rERiJHvc0cFIrkM+weGLEoarHWaRw1lgkC4Vsm9844NloOuh6XylznWyQ14phI4hOnIlNw8CrspgyQ2GghsHGyOZE9b01nHSfcrapkoh6CJE10+siduQbBJzOqcyMDin4V5svV9shM="
