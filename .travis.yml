@@ -5,14 +5,8 @@ node_js:
 notifications:
   email: false
 
-before_cache:
-  - rm -rf node_modules/.cache
-  - rm -rf node_modules/@vuepress/core/node_modules/.cache/
-
 cache:
   yarn: true
-  directories:
-    - "node_modules"
 
 install:
   - curl -o- -L https://yarnpkg.com/install.sh | bash
