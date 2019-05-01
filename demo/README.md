@@ -7,5 +7,5 @@ lang: zh-CN
 
 这里会收集一些常见的例子，并且会尽可能给出详细的解释
 
-[自瞄和透视](aiming_and_perspective.md)
-[2D格斗](2d.md)
+* [自瞄和透视](aiming_and_perspective.md)
+* [2D格斗](2d.md)
