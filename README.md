@@ -30,6 +30,8 @@ lang: zh-CN
 * 您可以在群内联系管理人员
 * 您还可以尝试[学习如何使用Git](https://blog.sylingd.com/archives/346.html)
 
+[查看Travis-CI构建状态](https://travis-ci.org/sylingd/ow-workshop)
+
 ## 协议
 
 本项目所有内容均在[BY-NC-SA（署名-非商业用途-相同方式共享）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)协议下分发。
