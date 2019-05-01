@@ -20,8 +20,6 @@ module.exports = {
       text: '首页',
       link: '/'
     }],
-    sidebar: [
-      '/'
-    ]
+    sidebar: require('./list')
   }
 };
