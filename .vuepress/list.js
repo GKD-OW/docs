@@ -16,7 +16,8 @@ module.exports = [
 		title: '常用Demo',
 		children: [
 			'/demo/',
-			'/demo/aiming_and_perspective'
+			'/demo/aiming_and_perspective',
+			'/demo/2d'
 		]
 	},
 	{
