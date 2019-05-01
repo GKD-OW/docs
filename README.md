@@ -15,7 +15,7 @@ lang: zh-CN
 
 本项目所有人均可参与。参与方式：
 
-* 首先，建议加入QQ群[OW地图工坊交流](https://jq.qq.com/?_wv=1027&k=5J2QSeu)，群号码：464623297
+* 建议加入QQ群[OW地图工坊交流](https://jq.qq.com/?_wv=1027&k=5J2QSeu)，群号码：464623297
 * 文档使用Markdown编写。Markdown是一种非常简单的写作语言，您可以[在此](https://www.jianshu.com/p/191d1e21f7ed)学习。工具使用没有特别限制，您可以使用任何一款Markdown编辑器，如果您不知道如何选择，可以参考[此处](https://www.zhihu.com/question/19637157)
 * 协作使用GitHub进行，仓库地址：[sylingd/ow-workshop](https://github.com/sylingd/ow-workshop)
 
