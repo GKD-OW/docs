@@ -2,7 +2,6 @@ module.exports = {
   base: "/",
   title: "地图工坊",
   description: "地图工坊",
-  sidebarDepth: 2,
   markdown: {
     lineNumbers: true,
     toc: {
@@ -17,6 +16,7 @@ module.exports = {
     editLinks: true,
     lang: 'zh-CN',
     editLinkText: '在 GitHub 上编辑此页',
+    sidebarDepth: 2,
     nav: [{
       text: '首页',
       link: '/'
