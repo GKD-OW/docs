@@ -20,7 +20,7 @@ lang: zh-CN
 | 名称 | 内容 | 作者 | 分享码 |
 | --- | ---- | --- | ----- |
 | 2D弹球 | 双方互相顶球，球不能落地 | 未知 | F3N1X（PTR） |
-| 加强版<br>艾什俄罗斯轮盘 | 艾什打招呼随机两种语音；<br>"Hello(你好)"概率较高，"Hey"概率较低；<br>若为Hello，则安全，反之被击杀；<br>增加了视觉特效与免伤设定 | [Oran9eUtan](https://www.reddit.com/user/Oran9eUtan) | N4SZ8（PTR） |
+| 加强版艾什<br>俄罗斯轮盘 | 艾什打招呼随机两种语音；<br>"Hello(你好)"概率高，"Hey"概率低；<br>若为Hello，则安全，反之被击杀；<br>增加了视觉特效与免伤设定 | [Oran9eUtan](https://www.reddit.com/user/Oran9eUtan) | N4SZ8（PTR） |
 
 ## 跑酷类
 
