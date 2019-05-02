@@ -2,6 +2,7 @@ module.exports = {
   base: "/",
   title: "地图工坊",
   description: "地图工坊",
+  sidebarDepth: 2,
   markdown: {
     lineNumbers: true,
     toc: {
