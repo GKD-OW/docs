@@ -14,6 +14,7 @@ lang: zh-CN
 | 2D横版格斗 | 地图：釜山，带平衡。<br>使用W、S移动；<br>鼠标移动调整方向和转向 | [HaxD3](https://www.reddit.com/user/HaxD3) | FE82B（PTR） |
 | 加强版<br>安娜一枪 | 地图：艾兴瓦尔德。25击杀获胜；<br>击杀后自动发送你好；<br>达成20击杀后全身着火；<br>致胜击杀（25）必须为睡针；<br>开镜时间若达到1.8秒会眩晕 | [JinkoNorray](https://www.reddit.com/user/JinkoNorray) | B3547（PTR） |
 | 烫手山芋 | 死斗模式；9地图随机；限定英雄麦克雷。<br>开局随机一人持有山芋并被点燃，HP减少；<br>持有者可通过攻击其他玩家转移山芋；<br>持有者死亡后，山芋随机分配剩余玩家之一；<br>存活至最后的玩家加一分，直至达到指定分数获胜| [olipoulihot](https://www.reddit.com/user/olipoulihot) | 1QQN6（PTR） |
+| 斯巴达模式<br>禅雅塔死斗 | 死斗模式，墓园。<br>通过将对手踢出地图造成击杀；<br>通过做表情为脚踢充能；<br>shift技能可短距离冲刺，冷却7s；<br>终极技能可将周围敌人弹开；<br>收集地图中蓝色光球可临时增强脚踢强度 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | NEKEV（PTR） |
 
 ## 休闲类
 
