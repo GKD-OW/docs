@@ -45,3 +45,4 @@ lang: zh-CN
 | 滑铲巴蒂斯特 | 前进状态下按互动键实现滑铲 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | 28KPA（PTR） |
 | 路霸抓钩 | 路霸钩子可实现黑百合抓钩效果 | [Altimor](https://www.reddit.com/user/Altimor) | YPTEF（PTR） |
 | 时停EMP | 黑影终极技能EMP可以使时间停止；<br>增加EMP计时器界面 | [Leo Hill](https://twitter.com/LeoHill10) | 8WXFX（PTR） |
+| 滑墙大锤 | 莱因哈特可以使用空格滑墙 | [w0rthiless](https://www.reddit.com/user/w0rthiless) | YNV6M（PTR） |
