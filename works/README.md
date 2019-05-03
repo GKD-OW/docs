@@ -44,3 +44,4 @@ lang: zh-CN
 | 黑百合<br>摄像头 | 剧毒诡雷可作为摄像头；<br>按下蹲键切换至摄像头视角 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | RREWD（PTR） |
 | 滑铲巴蒂斯特 | 前进状态下按互动键实现滑铲 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | 28KPA（PTR） |
 | 路霸抓钩 | 路霸钩子可实现黑百合抓钩效果 | [Altimor](https://www.reddit.com/user/Altimor) | YPTEF（PTR） |
+| 时停EMP | 黑影终极技能EMP可以使时间停止；<br>增加EMP计时器界面 | [Leo Hill](https://twitter.com/LeoHill10) | 8WXFX（PTR） |
