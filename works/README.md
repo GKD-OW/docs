@@ -40,5 +40,6 @@ lang: zh-CN
 | --- | ---- | --- | ----- |
 | 堡垒炮台版<br>托比昂 | 按Q部署堡垒；<br>堡垒会攻击托比昂面对的方向；<br>左键修复堡垒 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | BEDTA（PTR） |
 | 托比昂大炮 | 堡垒在坦克模式下可发射托比昂作为炮弹；<br>按shift为托比昂锁定攻击目标；<br>按住右键使托比昂攻击目标 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | F3NVC（PTR） |
-| 黑百合<br>摄像头 | 剧毒诡雷可作为摄像头；<br>按ctrl切换至摄像头视角 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | RREWD（PTR） |
-| 滑铲巴蒂斯特 | 前进状态下按互动键（F）实现滑铲 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | 28KPA（PTR） |
+| 飞行堡垒 | 堡垒在哨卫模式下可以飞行；<br>按跳跃键升空，下蹲键降落；<br>右键进行冲刺 | [LLDva](https://www.reddit.com/user/LLDva) | 9TBV2（PTR） |
+| 黑百合<br>摄像头 | 剧毒诡雷可作为摄像头；<br>按下蹲键切换至摄像头视角 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | RREWD（PTR） |
+| 滑铲巴蒂斯特 | 前进状态下按互动键实现滑铲 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | 28KPA（PTR） |
