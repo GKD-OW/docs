@@ -34,3 +34,10 @@ lang: zh-CN
 | 艾兴瓦尔德 | 开始于进攻方A点 | 未知 | YVB13（PTR） |
 | 竞速赛 | 地图：66号公路、多拉多、渣客镇、<br>监测站：直布罗陀、里阿尔托；<br>英雄：破坏球、卢西奥、黑百合；<br>随机产生加速环与冰冻陷阱 | [Daniel Fenner](https://twitter.com/DanielFenner) <br> [Dane Fairbanks](https://twitter.com/danefairbanks) | Q8KT7（PTR） |
 | 卢西奥滑墙竞速 | 地图：艾兴瓦尔德。<br>按顺序依次通过40个检查点；<br>按crtl键返回起点 | [waycoolway](https://www.reddit.com/user/waycoolway) | PHSHA（PTR） |
+
+## 英雄重做
+| 名称 | 内容 | 作者 | 分享码 |
+| --- | ---- | --- | ----- |
+| 堡垒炮台版托比昂 | 按Q部署堡垒；<br>堡垒会攻击托比昂面对的方向；<br>左键修复堡垒 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | BEDTA（PTR） |
+| 托比昂大炮 | 堡垒在坦克模式下可发射托比昂作为炮弹；<br>按shift为托比昂锁定攻击目标；<br>按住右键使托比昂攻击目标 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | F3NVC（PTR） |
+| 滑铲巴蒂斯特 | 前进状态下按互动键（F）实现滑铲 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | 28KPA（PTR） |
