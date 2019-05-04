@@ -1,6 +1,7 @@
 ---
 title: 作品收集
 lang: zh-CN
+pageClass: page-works
 ---
 
 # 作品收集

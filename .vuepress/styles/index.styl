@@ -1,0 +1,58 @@
+.page .content,
+.page .page-edit,
+.page .page-nav {
+	max-width: 1200px;
+	padding-left: 4em;
+	padding-right: 4em;
+}
+
+table {
+	min-width: 100%;
+}
+
+.page-manual table tr > td:first-child {
+	min-width: 160px;
+	width: 160px;
+}
+.page-manual table tr > td:nth-child(2) {
+	min-width: 230px;
+}
+
+.page-works table tr > td:first-child {
+	min-width: 130px;
+	width: 130px;
+}
+.page-works table tr > td:nth-child(2) {
+	min-width: 230px;
+}
+.page-works table tr > td:nth-child(3),
+.page-works table tr > td:nth-child(4) {
+	width: 100px;
+}
+
+@media (max-width: 959px) {
+	.page .content,
+	.page .page-edit,
+	.page .page-nav {
+		padding-left: 2em;
+		padding-right: 2em;
+	}
+	.page-manual table tr > td:first-child {
+		min-width: 80px;
+		width: 80px;
+	}
+	.page-manual table tr > td:nth-child(2) {
+		min-width: auto;
+	}
+	.page-works table tr > td:first-child {
+		min-width: 80px;
+		width: 80px;
+	}
+	.page-works table tr > td:nth-child(2) {
+		min-width: 200px;
+	}
+	.page-works table tr > td:nth-child(3),
+	.page-works table tr > td:nth-child(4) {
+		width: 80px;
+	}
+}
