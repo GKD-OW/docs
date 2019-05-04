@@ -18,6 +18,7 @@ pageClass: page-works
 | 斯巴达版<br>禅雅塔死斗 | 死斗模式，墓园。<br>通过将对手踢出地图造成击杀；<br>通过做表情为脚踢充能；<br>shift技能可短距离冲刺，冷却7s；<br>终极技能可将周围敌人弹开；<br>收集地图中蓝色光球可临时增强脚踢强度 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | NEKEV（PTR） |
 | 细胞吞噬<br>Agar.io | 死斗模式，限定英雄路霸；<br>收集绿色食物或钩中其他玩家增大体积；<br>钩中其他玩家可获得与其相同体积；<br>吸收小于你的玩家造成击杀；<br>收集蓝色光球可激活E技能，产生护盾；<br>护盾可防止被吸收，但仍会被钩中；<br>随着体积增大，移速会逐渐降低；<br>达到一定大小（默认30）即可获胜 | [CuddFlow](https://www.reddit.com/user/CuddFlow) | 2KW11（PTR） |
 | [生化模式](./athletics/mutation) | 类似CSOL的生化模式 | [泷涯](https://space.bilibili.com/2002598) | 施工中 |
+| 无限宝石| 时间宝石：增加移动速度；<br>灵魂宝石：获得HP回复能力；<br>力量宝石：增加攻击力；<br>心灵宝石：降低所受伤害；<br>空间宝石：减小重力；<br>现实宝石：获得燃烧光环；<br>击杀玩家可获得其持有的宝石之一；<br>获得全部宝石将暴露所在位置；<br>持有30s后，将会打响指并获胜 | [kaiomm](https://www.reddit.com/user/kaiomm) | PJTY1（PTR） |
 
 ## 休闲类
 
