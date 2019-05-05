@@ -40,11 +40,11 @@ pageClass: page-works
 ## 英雄重做
 | 名称 | 内容 | 作者 | 分享码 |
 | --- | ---- | --- | ----- |
-| 堡垒炮台版<br>托比昂 | 按Q部署堡垒；<br>堡垒会攻击托比昂面对的方向；<br>左键修复堡垒 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | BEDTA（PTR） |
-| 托比昂大炮 | 堡垒在坦克模式下可发射托比昂作为炮弹；<br>按shift为托比昂锁定攻击目标；<br>按住右键使托比昂攻击目标 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | F3NVC（PTR） |
-| 飞行堡垒 | 堡垒在哨卫模式下可以飞行；<br>按跳跃键升空，下蹲键降落；<br>右键进行冲刺 | [LLDva](https://www.reddit.com/user/LLDva) | 9TBV2（PTR） |
-| 黑百合<br>摄像头 | 剧毒诡雷可作为摄像头；<br>按下蹲键切换至摄像头视角 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | RREWD（PTR） |
+| 堡垒炮台版<br>托比昂 | 按Q部署堡垒，左键修复堡垒；<br>堡垒会攻击托比昂面对的方向| [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | BEDTA（PTR） |
+| 托比昂大炮 | 堡垒在坦克模式下可发射托比昂作为炮弹；<br>按shift为托比昂锁定攻击目标，按住右键使托比昂攻击目标 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | F3NVC（PTR） |
+| 飞行堡垒 | 堡垒在哨卫模式下可以飞行；<br>按跳跃键升空，下蹲键降落，右键进行冲刺 | [LLDva](https://www.reddit.com/user/LLDva) | 9TBV2（PTR） |
+| 黑百合<br>摄像头 | 剧毒诡雷可作为摄像头，按下蹲键切换至摄像头视角 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | RREWD（PTR） |
 | 滑铲巴蒂斯特 | 前进状态下按互动键实现滑铲 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | 28KPA（PTR） |
 | 路霸抓钩 | 路霸钩子可实现黑百合抓钩效果 | [Altimor](https://www.reddit.com/user/Altimor) | YPTEF（PTR） |
-| 时停EMP | 黑影终极技能EMP可以使时间停止；<br>增加EMP计时器界面 | [Leo Hill](https://twitter.com/LeoHill10) | 8WXFX（PTR） |
+| 时停EMP | 黑影终极技能EMP可以使时间停止，增加EMP计时器界面 | [Leo Hill](https://twitter.com/LeoHill10) | 8WXFX（PTR） |
 | 滑墙大锤 | 莱因哈特可以使用空格滑墙 | [w0rthiless](https://www.reddit.com/user/w0rthiless) | YNV6M（PTR） |
