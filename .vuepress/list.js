@@ -15,9 +15,10 @@ module.exports = [
 		]
 	},
 	{
-		title: '常用Demo',
+		title: '工坊示例',
 		children: [
 			'/demo/',
+			'/demo/mutation',
 			'/demo/aiming_and_perspective',
 			'/demo/2d'
 		]
