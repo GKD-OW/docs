@@ -37,6 +37,13 @@ pageClass: page-works
 | 卢西奥-艾兴瓦尔德Ⅱ | 开始于防守方C点<br>按顺序依次通过40个检查点；按crtl键返回起点 | [waycoolway](https://www.reddit.com/user/waycoolway) | PHSHA（PTR） |
 | 竞速赛 | 地图：66号公路、多拉多、渣客镇、监测站：直布罗陀、里阿尔托；<br>英雄：破坏球、卢西奥、黑百合；随机产生加速环与冰冻陷阱 | [Daniel Fenner](https://twitter.com/DanielFenner) <br> [Dane Fairbanks](https://twitter.com/danefairbanks) | Q8KT7（PTR） |
 
+## 练习类
+
+| 名称 | 内容 | 作者 | 分享码 |
+| --- | ---- | --- | ----- |
+| 抛射物练习 | 适用于安娜手雷、奥丽莎护盾、查莉雅重力喷涌；<br>按互动键切换至观察视角，紫色圈为预测落地位置，绿色圈为实际落地位置；<br>暂不支持有天花板及墙壁碰撞的情况 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | 1ZH9V（PTR） |
+| 源氏龙刃练习 | 可选择开启激素、复活及第三人称视角；<br>开始前需在大厅给己方添加两个困难安娜AI | [Nakotsu09](https://twitter.com/Nakotsu09) | BE8VH（PTR） |
+
 ## 英雄重做
 | 名称 | 内容 | 作者 | 分享码 |
 | --- | ---- | --- | ----- |
