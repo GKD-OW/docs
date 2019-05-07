@@ -26,6 +26,7 @@ pageClass: page-works
 | --- | ---- | --- | ----- |
 | 2D弹球 | 双方互相顶球，球不能落地 | 未知 | F3N1X（PTR） |
 | 艾什俄罗斯轮盘（加强版） | 艾什打招呼随机两种语音；"Hello(你好)"概率高，"Hey"概率低；<br>若为Hello，则安全，反之被击杀；<br>增加了视觉特效与免伤设定 | [Oran9eUtan](https://www.reddit.com/user/Oran9eUtan) | N4SZ8（PTR） |
+| 托比昂保龄球 | 需要两个玩家，分别选择卢西奥及破坏球，并设置10个托比昂AI；<br>卢西奥可将破坏球推至所面朝的方向，按Q和E进行左右移动，按互动键重置 | [Lymbow](https://www.reddit.com/user/Lymbow) | Y6VRT（PTR） |
 
 ## 跑酷类
 
@@ -55,3 +56,5 @@ pageClass: page-works
 | 路霸抓钩 | 路霸钩子可实现黑百合抓钩效果 | [Altimor](https://www.reddit.com/user/Altimor) | YPTEF（PTR） |
 | 时停EMP | 黑影终极技能EMP可以使时间停止；增加EMP计时器界面 | [Leo Hill](https://twitter.com/LeoHill10) | 8WXFX（PTR） |
 | 滑墙大锤 | 莱因哈特可以使用空格滑墙 | [w0rthiless](https://www.reddit.com/user/w0rthiless) | YNV6M（PTR） |
+| 闪电球秩序之光 | 秩序之光可施放闪电球，在敌人之间反弹 | [Lymbow](https://www.reddit.com/user/Lymbow) | YD4KM（PTR） |
+
