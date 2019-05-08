@@ -28,6 +28,7 @@ pageClass: page-works
 | 2D弹球 | 双方互相顶球，球不能落地 | 未知 | F3N1X（PTR） |
 | 艾什俄罗斯轮盘（加强版） | 艾什打招呼随机两种语音；"Hello(你好)"概率高，"Hey"概率低；<br>若为Hello，则安全，反之被击杀；<br>增加了视觉特效与免伤设定 | [Oran9eUtan](https://www.reddit.com/user/Oran9eUtan) | N4SZ8（PTR） |
 | 托比昂保龄球 | 需要两个玩家，分别选择卢西奥及破坏球，并设置10个托比昂AI；<br>卢西奥可将破坏球推至所面朝的方向，按Q和E进行左右移动，按互动键重置 | [Lymbow](https://www.reddit.com/user/Lymbow) | Y6VRT（PTR） |
+| 五子棋 | 按互动F传送到棋盘附近；<br>双方轮流落子，5个连成线获胜；房主按Q快速清盘 | [xcr1234](https://github.com/xcr1234/) | JHM9D (PTR) |
 
 ## 跑酷类
 
