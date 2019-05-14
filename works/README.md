@@ -30,6 +30,7 @@ pageClass: page-works
 | 艾什俄罗斯轮盘（加强版） | 艾什打招呼随机两种语音；"Hello(你好)"概率高，"Hey"概率低；<br>若为Hello，则安全，反之被击杀；<br>增加了视觉特效与免伤设定 | [Oran9eUtan](https://www.reddit.com/user/Oran9eUtan) | N4SZ8（PTR） |
 | 托比昂保龄球 | 需要两个玩家，分别选择卢西奥及破坏球，并设置10个托比昂AI；<br>卢西奥可将破坏球推至所面朝的方向，按Q和E进行左右移动，按互动键重置 | [Lymbow](https://www.reddit.com/user/Lymbow) | Y6VRT（PTR） |
 | 五子棋 | 按互动F传送到棋盘附近；<br>双方轮流落子，5个连成线获胜；房主按Q快速清盘 | [xcr1234](https://github.com/xcr1234/) | JHM9D (PTR) |
+| Flappy Bird | OW版跳跃小鸟，按空格控制法拉跳跃，速度会随着得分变高而变快 | [Thriver9](https://www.reddit.com/user/Thriver9) | 4QY7N（PTR） |
 
 ## 跑酷类
 
@@ -40,7 +41,7 @@ pageClass: page-works
 | 卢西奥-艾兴瓦尔德Ⅰ | 开始于进攻方A点 | 未知 | YVB13（PTR） |
 | 卢西奥-艾兴瓦尔德Ⅱ | 开始于防守方C点<br>按顺序依次通过40个检查点；按crtl键返回起点 | [waycoolway](https://www.reddit.com/user/waycoolway) | PHSHA（PTR） |
 | 竞速赛 | 地图：66号公路、多拉多、渣客镇、监测站：直布罗陀、里阿尔托；<br>英雄：破坏球、卢西奥、黑百合；随机产生加速环与冰冻陷阱 | [Daniel Fenner](https://twitter.com/DanielFenner) <br> [Dane Fairbanks](https://twitter.com/danefairbanks) | Q8KT7（PTR） |
-| Flappy Bird | OW版跳跃小鸟，按空格控制法拉跳跃，速度会随着得分变高而变快 | [Thriver9](https://www.reddit.com/user/Thriver9) | 4QY7N（PTR） |
+
 
 ## 练习类
 
