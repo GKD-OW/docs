@@ -74,4 +74,6 @@ pageClass: page-works
 | 滑墙大锤 | 莱因哈特可以使用空格滑墙 | [w0rthiless](https://www.reddit.com/user/w0rthiless) | YNV6M（PTR） |
 | 闪电球秩序之光 | 秩序之光可施放闪电球，在敌人之间反弹 | [Lymbow](https://www.reddit.com/user/Lymbow) | YD4KM（PTR） |
 | 穿墙死神 | 死神的幽灵形态现在可以穿墙 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | DY7MH（PTR） |
+| 猎空闪回技能 | 所有英雄都可以使用互动键，实现猎空的闪回技能 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | KC981（PTR） |
+| 安娜机动性增强 | 为安娜制作了多个机动性技能：<br>半空中可使用半藏的跃技能跳跃；按住跳跃键可以爬墙；<br>按住下蹲键可蓄力跳跃，类似巴蒂斯特动力战靴；<br>向墙壁发射睡针可以实现黑百合抓钩效果；<br>生物手雷可以使自己获得4s加速效果 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | XJQY0（PTR） |
 
