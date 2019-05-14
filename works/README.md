@@ -40,6 +40,7 @@ pageClass: page-works
 | 卢西奥-艾兴瓦尔德Ⅰ | 开始于进攻方A点 | 未知 | YVB13（PTR） |
 | 卢西奥-艾兴瓦尔德Ⅱ | 开始于防守方C点<br>按顺序依次通过40个检查点；按crtl键返回起点 | [waycoolway](https://www.reddit.com/user/waycoolway) | PHSHA（PTR） |
 | 竞速赛 | 地图：66号公路、多拉多、渣客镇、监测站：直布罗陀、里阿尔托；<br>英雄：破坏球、卢西奥、黑百合；随机产生加速环与冰冻陷阱 | [Daniel Fenner](https://twitter.com/DanielFenner) <br> [Dane Fairbanks](https://twitter.com/danefairbanks) | Q8KT7（PTR） |
+| Flappy Bird | OW版跳跃小鸟，按空格控制法拉跳跃，速度会随着得分变高而变快 | [Thriver9](https://www.reddit.com/user/Thriver9) | 4QY7N（PTR） |
 
 ## 练习类
 
