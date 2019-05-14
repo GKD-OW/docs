@@ -73,4 +73,5 @@ pageClass: page-works
 | 时停EMP | 黑影终极技能EMP可以使时间停止；增加EMP计时器界面 | [Leo Hill](https://twitter.com/LeoHill10) | 8WXFX（PTR） |
 | 滑墙大锤 | 莱因哈特可以使用空格滑墙 | [w0rthiless](https://www.reddit.com/user/w0rthiless) | YNV6M（PTR） |
 | 闪电球秩序之光 | 秩序之光可施放闪电球，在敌人之间反弹 | [Lymbow](https://www.reddit.com/user/Lymbow) | YD4KM（PTR） |
+| 穿墙死神 | 死神的幽灵形态现在可以穿墙 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | DY7MH（PTR） |
 
