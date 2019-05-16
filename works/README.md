@@ -23,6 +23,7 @@ pageClass: page-works
 | 无限宝石| 时间宝石：增加移动速度；灵魂宝石：获得HP回复能力；<br>力量宝石：增加攻击力；心灵宝石：降低所受伤害；<br>空间宝石：减小重力；现实宝石：获得燃烧光环；<br>击杀玩家可获得其持有的宝石之一；获得全部宝石将暴露所在位置；持有30s后，将会打响指并获胜 | [kaiomm](https://www.reddit.com/user/kaiomm) | PJTY1（PTR） |
 | 躲避车 | 死斗模式，地图：绿洲城；<br>利用英雄技能、跳跃等方式躲避来往汽车，直至到达隧道尽头；<br>每次抵达终点后得一分并更换英雄，先完成20名英雄的玩家获胜 | [아론 페이지](https://www.youtube.com/watch?v=kxhVICQllic) | WMJYD（PTR） |
 
+
 ## 休闲类
 
 | 名称 | 内容 | 作者 | 分享码 |
@@ -32,6 +33,8 @@ pageClass: page-works
 | 托比昂保龄球 | 需要两个玩家，分别选择卢西奥及破坏球，并设置10个托比昂AI；<br>卢西奥可将破坏球推至所面朝的方向，按Q和E进行左右移动，按互动键重置 | [Lymbow](https://www.reddit.com/user/Lymbow) | Y6VRT（PTR） |
 | 五子棋 | 按互动F传送到棋盘附近；<br>双方轮流落子，5个连成线获胜；房主按Q快速清盘 | [xcr1234](https://github.com/xcr1234/) | JHM9D (PTR) |
 | Flappy Bird | OW版跳跃小鸟，按空格控制法拉跳跃，速度会随着得分变高而变快 | [Thriver9](https://www.reddit.com/user/Thriver9) | 4QY7N（PTR） |
+| Flappy Bird（多人版） | 玩法同上 | [Thriver9](https://www.reddit.com/user/Thriver9) | P3DNC（PTR） |
+| 半藏塔防 | 地图：墓地。进攻方可购买道具加速、治疗、冻结、传送（使用五次）和变身DVA。防守方可购买伤害增加、射速增加 | [TheRealPT0007](https://www.reddit.com/user/TheRealPT0007/) | Y1PWP（PTR） |
 
 ## 跑酷类
 
@@ -49,10 +52,13 @@ pageClass: page-works
 | 名称 | 内容 | 作者 | 分享码 |
 | --- | ---- | --- | ----- |
 | 抛射物练习 | 适用于安娜手雷、奥丽莎护盾、查莉雅重力喷涌；<br>按互动键切换至观察视角，紫色圈为预测落地位置，绿色圈为实际落地位置；<br>暂不支持有天花板及墙壁碰撞的情况 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | 1ZH9V（PTR） |
-| 源氏龙刃练习 | 可选择开启激素、复活及第三人称视角；<br>开始前需在大厅给己方添加两个困难安娜AI | [Nakotsu09](https://twitter.com/Nakotsu09) | BE8VH（PTR） |
+| 源氏龙刃练习 | 可选择开启激素、复活及第三人称视角；开始前需在大厅给己方添加两个困难安娜AI | [Nakotsu09](https://twitter.com/Nakotsu09) | BE8VH（PTR） |
+| 莱因哈特练习 | 走进蓝色圆圈开始。按“我需要治疗”来练习安娜睡眠，按“你好”练习对抗烈焰打击和冲锋 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky/) | 440GD（PTR） |
 | 瞄准练习Ⅰ | 分为两种模式：目标会快速出现并消失、目标只有被击中才会消失；<br>可手动选择英雄、模式及目标颜色 | [PMAJellies](https://twitter.com/PMAJellies) | WRP63（PTR） |
 | 瞄准练习Ⅱ | 仅限麦克雷，将在目标点内随机生成不规则运动的红色目标，左上角为计分板 | RAMBE | 76WH2（PTR） |
 | 瞄准练习Ⅲ | 可以通过交流菜单调整目标运动参数：<br>感谢：重置计时器及击杀计数；你好：将你传送至训练地点；需要治疗：返回复活点；<br>集合：使目标水平不规则移动；终极技能状态：使目标垂直移动；<br>收到：一击必杀模式或无法击杀模式；<br>语音上：增大复活半径；下：减小半径；左：减小目标点数量；右：增大数量 | [firenty](https://www.reddit.com/user/firenty) | RDWK1（PTR） |
+| 瞄准练习Ⅳ | 按互动键（F）开始，按互动键+蹲下打开设置。<br>菜单从左到右为：传送到目标，增加/减少产生半径，增加/减少目标大小，增加/减少目标速度，死亡模式，闪电模式，堆叠模式，居中模式，增加/减少难度。 | [Pineapple__Squish](https://www.reddit.com/user/Pineapple__Squish/) | RJ6X3（PTR） |
+
 
 ## 功能扩展
 
