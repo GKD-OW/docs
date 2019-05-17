@@ -9,8 +9,9 @@ module.exports = {
     }
   },
   plugins: [
-    ['vuepress-plugin-baidu-tongji', {
-      hm: '44b41bc63385a6b27e692272bb1fb393'
+    ['vuepress-plugin-baidu-google-analytics', {
+      hm: '44b41bc63385a6b27e692272bb1fb393',
+      ignore_hash: true
     }]
   ],
   themeConfig: {
