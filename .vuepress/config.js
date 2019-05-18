@@ -12,6 +12,11 @@ module.exports = {
     ['vuepress-plugin-baidu-google-analytics', {
       hm: '44b41bc63385a6b27e692272bb1fb393',
       ignore_hash: true
+    }],
+    ['vuepress-plugin-copy-via-link', {
+      start: '#copy:',
+      message: '复制成功',
+      manual_copy: '复制失败，请手动复制'
     }]
   ],
   themeConfig: {

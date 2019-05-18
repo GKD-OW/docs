@@ -4,7 +4,8 @@
   "license": "CC-BY-NC-SA-4.0",
   "devDependencies": {
     "vuepress": "^1.0.0-alpha.48",
-    "vuepress-plugin-baidu-google-analytics": "^1.0.0"
+    "vuepress-plugin-baidu-google-analytics": "^1.0.0",
+    "vuepress-plugin-copy-via-link": "^1.0.0"
   },
   "scripts": {
     "dev": "vuepress dev .",
