@@ -9,6 +9,7 @@ module.exports = {
     }
   },
   plugins: [
+    '@vuepress/back-to-top',
     ['vuepress-plugin-baidu-google-analytics', {
       hm: '44b41bc63385a6b27e692272bb1fb393',
       ignore_hash: true
@@ -28,6 +29,17 @@ module.exports = {
     nav: [{
       text: '首页',
       link: '/'
+    }, {
+      text: 'QQ群',
+      items: [{
+          text: '地图工坊交流群',
+          link: 'https://jq.qq.com/?_wv=1027&k=5J2QSeu'
+        },
+        {
+          text: '地图工坊测试群',
+          link: 'https://jq.qq.com/?_wv=1027&k=5oGqbYZ'
+        }
+      ]
     }],
     sidebar: require('./list')
   }
