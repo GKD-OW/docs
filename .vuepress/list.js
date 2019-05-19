@@ -10,8 +10,9 @@ module.exports = [
 		title: '功能手册',
 		children: [
 			'/manual/',
-			'/manual/vector',
+			'/manual/array',
 			'/manual/continued_event',
+			'/manual/vector',
 			'/manual/tips'
 		]
 	},
