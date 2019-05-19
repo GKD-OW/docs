@@ -11,6 +11,7 @@ module.exports = [
 		children: [
 			'/manual/',
 			'/manual/vector',
+			'/manual/continued_event',
 			'/manual/tips'
 		]
 	},
