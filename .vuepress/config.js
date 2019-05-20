@@ -11,7 +11,7 @@ module.exports = {
   plugins: [
     '@vuepress/back-to-top',
     ['vuepress-plugin-baidu-google-analytics', {
-      hm: '44b41bc63385a6b27e692272bb1fb393',
+      hm: '11aad64b5d8c0e079f3128e410654304',
       ignore_hash: true
     }],
     ['vuepress-plugin-copy-via-link', {
