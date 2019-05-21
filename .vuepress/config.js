@@ -32,11 +32,11 @@ module.exports = {
     }, {
       text: 'QQ群',
       items: [{
-          text: '地图工坊交流群',
+          text: '交流群',
           link: 'https://jq.qq.com/?_wv=1027&k=5J2QSeu'
         },
         {
-          text: '地图工坊测试群',
+          text: '测试群',
           link: 'https://jq.qq.com/?_wv=1027&k=5oGqbYZ'
         }
       ]
