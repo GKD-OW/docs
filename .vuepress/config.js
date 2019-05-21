@@ -26,6 +26,7 @@ module.exports = {
     lang: 'zh-CN',
     editLinkText: '在 GitHub 上编辑此页',
     sidebarDepth: 2,
+    lastUpdated: '上次更新',
     nav: [{
       text: '首页',
       link: '/'
