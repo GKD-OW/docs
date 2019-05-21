@@ -6,9 +6,9 @@ pageClass: page-works
 
 # 作品收集
 
-这里会收集一些大家的作品，并尽可能提供分享码。因为分享码具有时效性，若您创建了分享码，也可以[在此提交](https://github.com/sylingd/ow-workshop/issues/4)，供他人使用。
+这里会收集一些大家的作品，并尽可能提供分享码。因为分享码具有时效性，若您创建了分享码，可以[进行提交](submit.md)，供他人使用。
 
-如果您希望将您的作品分享给大家，也可以[在此提交](https://github.com/sylingd/ow-workshop/issues/4)
+如果您希望将您的作品分享给大家，也可以[进行提交](submit.md)。
 
 ## 竞技类
 

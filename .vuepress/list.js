@@ -28,7 +28,8 @@ module.exports = [
 	{
 		title: '作品收集',
 		children: [
-			'/works/'
+			'/works/',
+			'/works/submit',
 		]
 	}
 ];
