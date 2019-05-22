@@ -54,7 +54,7 @@ pageClass: page-works
 | 名称 | 内容 | 作者 | 单击复制分享码 |
 | --- | ---- | --- | ------------ |
 | 抛射物练习 | 适用于安娜手雷、奥丽莎护盾、查莉雅重力喷涌；<br>按互动键切换至观察视角，紫色圈为预测落地位置，绿色圈为实际落地位置；<br>暂不支持有天花板及墙壁碰撞的情况 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [1ZH9V（外服）](#copy:1ZH9V) |
-| 源氏龙刃练习 | 可选择开启激素、复活及第三人称视角；开始前需在大厅给己方添加两个困难安娜AI | [Nakotsu09](https://twitter.com/Nakotsu09)<br>rig搬运 | [6PCRD（国服）](#copy:6PCRD)<br>[BE8VH（外服）](#copy:BE8VH) |
+| 源氏龙刃练习 | 可选择开启激素、复活及第三人称视角；开始前需在大厅给己方添加两个困难安娜AI | [Nakotsu09](https://twitter.com/Nakotsu09)<br>rig搬运 | [9KA5T（国服）](#copy:9KA5T)<br>[BE8VH（外服）](#copy:BE8VH) |
 | 莱因哈特练习 | 走进蓝色圆圈开始。按“我需要治疗”来练习安娜睡眠，按“你好”练习对抗烈焰打击和冲锋 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky/) | [440GD（外服）](#copy:440GD) |
 | 瞄准练习Ⅰ | 分为两种模式：目标会快速出现并消失、目标只有被击中才会消失；<br>可手动选择英雄、模式及目标颜色 | [PMAJellies](https://twitter.com/PMAJellies) | [WRP63（外服）](#copy:WRP63) |
 | 瞄准练习Ⅱ | 仅限麦克雷，将在目标点内随机生成不规则运动的红色目标，左上角为计分板 | RAMBE | [76WH2（外服）](#copy:76WH2) |
