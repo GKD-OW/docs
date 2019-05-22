@@ -45,7 +45,7 @@ pageClass: page-works
 | 卢西奥-多拉多 | 开始于进攻方A点 | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [019D2（外服）](#copy:019D2) |
 | 卢西奥-直布罗陀 | 直布罗陀B点 | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [Y88KB（外服）](#copy:Y88KB) |
 | 卢西奥-艾兴瓦尔德Ⅰ | 开始于进攻方A点 | 未知 | [YVB13（外服）](#copy:YVB13) |
-| 卢西奥-艾兴瓦尔德Ⅱ | 开始于防守方C点<br>按顺序依次通过40个检查点；按crtl键返回起点 | [waycoolway](https://www.reddit.com/user/waycoolway) | [PHSHA（外服）](#copy:PHSHA) |
+| 卢西奥-艾兴瓦尔德Ⅱ | 开始于防守方C点<br>按顺序依次通过40个检查点；按crtl键返回起点 | [waycoolway](https://www.reddit.com/user/waycoolway)<br>[泷涯](https://space.bilibili.com/2002598)搬运 | [7AT99（国服）](#copy:7AT99)<br>[PHSHA（外服）](#copy:PHSHA) |
 | 竞速赛 | 地图：66号公路、多拉多、渣客镇、监测站：直布罗陀、里阿尔托；<br>英雄：破坏球、卢西奥、黑百合；随机产生加速环与冰冻陷阱 | [Daniel Fenner](https://twitter.com/DanielFenner) <br> [Dane Fairbanks](https://twitter.com/danefairbanks) | [Q8KT7（外服）](#copy:Q8KT7) |
 
 
