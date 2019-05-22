@@ -37,6 +37,9 @@ pageClass: page-works
 | Flappy Bird | OW版跳跃小鸟，按空格控制法拉跳跃，速度会随着得分变高而变快 | [Thriver9](https://www.reddit.com/user/Thriver9) | [4QY7N（外服）](#copy:4QY7N) |
 | Flappy Bird（多人版） | 玩法同上 | [Thriver9](https://www.reddit.com/user/Thriver9) | [P3DNC（外服）](#copy:P3DNC) |
 | 半藏塔防 | 地图：墓地。进攻方可购买道具加速、治疗、冻结、传送（使用五次）和变身DVA。防守方可购买伤害增加、射速增加 | [TheRealPT0007](https://www.reddit.com/user/TheRealPT0007/) | [Y1PWP（外服）](#copy:Y1PWP) |
+| 双英雄 | 开始游戏时选择两个英雄，按下互动键切换副英雄，尝试各种组合和技能搭配吧！ 【注】为了平衡，不同的英雄切换的冷却时间是不同的 | [Hawaiian_spawn](https://www.reddit.com/user/Hawaiian_spawn)<br>[Shalow](http://space.bilibili.com/33281282)搬运 | [2K8PK（国服）](#copy:2K8PK)<br>[Y1S15（外服）](#copy:Y1S15) |
+| 源氏元素刀 | 被砍到会收到 冰冻 晕眩 被黑 睡针效果 跟秒刀也就差不多 | 未知，由丶锤D坑搬运 | [EZRT6（国服）](#copy:EZRT6) |
+
 
 ## 跑酷类
 
