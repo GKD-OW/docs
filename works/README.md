@@ -20,8 +20,7 @@ pageClass: page-works
 | 斯巴达版<br>禅雅塔死斗 | 死斗模式，墓园。<br>通过做表情为脚踢充能；收集地图中蓝色光球可临时增强脚踢强度<br>shift技能可短距离冲刺，冷却7s；终极技能可将周围敌人弹开；<br>通过将对手踢出地图造成击杀； | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [NEKEV（外服）](#copy:NEKEV) |
 | 细胞吞噬<br>Agar.io | 死斗模式，限定英雄路霸；<br>收集绿色食物或钩中其他玩家增大体积；收集蓝色光球可激活E技能，产生护盾；<br>钩中其他玩家可获得与其相同体积；吸收小于你的玩家造成击杀；<br>护盾可防止被吸收，但仍会被钩中；<br>随着体积增大，移速会逐渐降低；达到一定大小（默认30）即可获胜 | [CuddFlow](https://www.reddit.com/user/CuddFlow) | [2KW11（外服）](#copy:2KW11) |
 | [生化模式（感染）](./athletics/mutation) | 类似CSOL的生化模式<br>**目前平衡性还在调整中，欢迎反馈** | [泷涯](https://space.bilibili.com/2002598) | [8CAMC（国服）](#copy:8CAMC)<br>[S0KS2（外服）](#copy:S0KS2) |
-| 生化模式（大逃杀）Ⅰ | 地图：国王大道<br>人类需尽快到达蓝色目标点，到达后开始倒计时；<br>倒计时剩8s时，出现红色传送点，剩1s时，僵尸及未到达目标点的人类都会被传送到红色传送点；<br>人类到达地图最后一个目标点获胜，僵尸转化所有人类获胜；<br>每次人类获胜，僵尸都会变得更强（托比昂-莱因哈特-温斯顿-布丽吉塔） | [Zezombye](https://www.reddit.com/user/Zezombye) | [SA9NF（外服）](#copy:SA9NF) |
-| 生化模式（大逃杀）Ⅱ | 地图：暴雪世界<br>玩法同上 | [Zezombye](https://www.reddit.com/user/Zezombye) | [EJM00（外服）](#copy:EJM00) |
+| 生化模式（大逃杀）| 地图：国王大道、暴雪世界、艾兴瓦尔德、绿洲城<br>人类需尽快到达蓝色目标点，到达后开始倒计时；<br>倒计时剩8s时，出现红色传送点，剩1s时，僵尸及未到达目标点的人类都会被传送到红色传送点；<br>人类到达地图最后一个目标点获胜，僵尸转化所有人类获胜；<br>每次人类获胜，僵尸都会变得更强（托比昂-莱因哈特-温斯顿-布丽吉塔） | [Zezombye](https://www.reddit.com/user/Zezombye) | [XKNDX（外服）](#copy:XKNDX) |
 | 无限宝石| 时间宝石：增加移动速度；灵魂宝石：获得HP回复能力；<br>力量宝石：增加攻击力；心灵宝石：降低所受伤害；<br>空间宝石：减小重力；现实宝石：获得燃烧光环；<br>击杀玩家可获得其持有的宝石之一；获得全部宝石将暴露所在位置；持有30s后，将会打响指并获胜 | [kaiomm](https://www.reddit.com/user/kaiomm) | [PJTY1（外服）](#copy:PJTY1) |
 | 躲避车 | 死斗模式，地图：绿洲城；<br>利用英雄技能、跳跃等方式躲避来往汽车，直至到达隧道尽头；<br>每次抵达终点后得一分并更换英雄，先完成20名英雄的玩家获胜 | [아론 페이지](https://www.youtube.com/watch?v=kxhVICQllic) | [WMJYD（外服）](#copy:WMJYD) |
 
