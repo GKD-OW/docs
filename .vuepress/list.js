@@ -1,5 +1,4 @@
-module.exports = [
-	{
+module.exports = [{
 		title: '概述',
 		children: [
 			'/',
@@ -8,9 +7,7 @@ module.exports = [
 	},
 	{
 		title: '功能手册',
-		path: '/manual/',
-		children: [
-			{
+		children: [{
 				title: '参考手册',
 				path: 'https://www.yuque.com/zhaohua-zgi3w/overwatch-document'
 			},
