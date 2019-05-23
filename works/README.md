@@ -33,8 +33,7 @@ pageClass: page-works
 | 艾什俄罗斯轮盘（加强版） | 艾什打招呼随机两种语音；"Hello(你好)"概率高，"Hey"概率低；<br>若为Hello，则安全，反之被击杀；<br>增加了视觉特效与免伤设定 | [Oran9eUtan](https://www.reddit.com/user/Oran9eUtan) | [N4SZ8（外服）](#copy:N4SZ8) |
 | 托比昂保龄球 | 需要两个玩家，分别选择卢西奥及破坏球，并设置10个托比昂AI；<br>卢西奥可将破坏球推至所面朝的方向，按Q和E进行左右移动，按互动键重置 | [Lymbow](https://www.reddit.com/user/Lymbow) | [Y6VRT（外服）](#copy:Y6VRT) |
 | 五子棋 | 按互动F传送到棋盘附近；<br>双方轮流落子，5个连成线获胜；房主按Q快速清盘 | [xcr1234](https://github.com/xcr1234/) | [JHM9D（外服）](#copy:JHM9D) |
-| Flappy Bird | OW版跳跃小鸟，按空格控制法拉跳跃，速度会随着得分变高而变快 | [Thriver9](https://www.reddit.com/user/Thriver9) | [4QY7N（外服）](#copy:4QY7N) |
-| Flappy Bird（多人版） | 玩法同上 | [Thriver9](https://www.reddit.com/user/Thriver9) | [P3DNC（外服）](#copy:P3DNC) |
+| Flappy Bird | 最多可6人游戏，按空格控制法拉跳跃，速度会随着得分变高而变快 | [Thriver9](https://www.reddit.com/user/Thriver9) | [N7BEV（国服）](#copy:N7BEV)<br>[4QY7N（外服）](#copy:4QY7N) |
 | 半藏塔防 | 地图：墓地。进攻方可购买道具加速、治疗、冻结、传送（使用五次）和变身DVA。防守方可购买伤害增加、射速增加 | [TheRealPT0007](https://www.reddit.com/user/TheRealPT0007/) | [Y1PWP（外服）](#copy:Y1PWP) |
 | 双英雄模式 | 开始游戏时选择两个英雄，按下互动键切换副英雄<br>【修复】修复了其他英雄有大招的情况下换成黑影、dva不能开大的问题【更改】现在小dva状态下无法切换英雄 | [Hawaiian_spawn](https://www.reddit.com/user/Hawaiian_spawn)<br>[Shalow](http://space.bilibili.com/33281282)修改&搬运 | [G2EJA（国服）](#copy:G2EJA)<br>[Y1S15（外服）](#copy:Y1S15) |
 | 源氏元素刀 | 被砍到会收到 冰冻 晕眩 被黑 睡针效果 跟秒刀也就差不多 | 未知，由丶锤D坑搬运 | [EZRT6（国服）](#copy:EZRT6) |
