@@ -8,8 +8,13 @@ module.exports = [
 	},
 	{
 		title: '功能手册',
+		path: '/manual/',
 		children: [
-			'/manual/',
+			{
+				title: '参考手册',
+				path: 'https://www.yuque.com/zhaohua-zgi3w/overwatch-document'
+			},
+			'/manual/old',
 			'/manual/array',
 			'/manual/continued_event',
 			'/manual/vector',
