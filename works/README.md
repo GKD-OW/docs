@@ -35,7 +35,7 @@ pageClass: page-works
 | 五子棋 | 按互动F传送到棋盘附近；<br>双方轮流落子，5个连成线获胜；房主按Q快速清盘 | [xcr1234](https://github.com/xcr1234/) | [JHM9D（外服）](#copy:JHM9D) |
 | Flappy Bird | 最多可6人游戏，按空格控制法拉跳跃，速度会随着得分变高而变快 | [Thriver9](https://www.reddit.com/user/Thriver9) | [N7BEV（国服）](#copy:N7BEV)<br>[4QY7N（外服）](#copy:4QY7N) |
 | 半藏塔防 | 地图：墓地。进攻方可购买道具加速、治疗、冻结、传送（使用五次）和变身DVA。防守方可购买伤害增加、射速增加 | [TheRealPT0007](https://www.reddit.com/user/TheRealPT0007/) | [Y1PWP（外服）](#copy:Y1PWP) |
-| 双英雄模式 | 开始游戏时选择两个英雄，按下互动键切换副英雄<br>【修复】修复了其他英雄有大招的情况下换成黑影、dva不能开大的问题【更改】现在小dva状态下无法切换英雄 | [Hawaiian_spawn](https://www.reddit.com/user/Hawaiian_spawn)<br>[Shalow](http://space.bilibili.com/33281282)修改&搬运 | [G2EJA（国服）](#copy:G2EJA)<br>[Y1S15（外服）](#copy:Y1S15) |
+| 双英雄模式 | 开始游戏时选择两个英雄，按下互动键切换副英雄<br>【修复】修复了其他英雄有大招的情况下换成黑影、dva不能开大的问题；<br>【更改】现在小dva状态下无法切换英雄 | [Hawaiian_spawn](https://www.reddit.com/user/Hawaiian_spawn)<br>[Shalow](http://space.bilibili.com/33281282)修改&搬运 | [G2EJA（国服）](#copy:G2EJA)<br>[Y1S15（外服）](#copy:Y1S15) |
 | 源氏元素刀 | 被砍到会收到 冰冻 晕眩 被黑 睡针效果 跟秒刀也就差不多 | 未知，由丶锤D坑搬运 | [EZRT6（国服）](#copy:EZRT6) |
 
 
@@ -59,7 +59,7 @@ pageClass: page-works
 | 莱因哈特练习 | 走进蓝色圆圈开始。按“我需要治疗”来练习安娜睡眠，按“你好”练习对抗烈焰打击和冲锋 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky/) | [440GD（外服）](#copy:440GD) |
 | 瞄准练习Ⅰ | 分为两种模式：目标会快速出现并消失、目标只有被击中才会消失；<br>可手动选择英雄、模式及目标颜色 | [PMAJellies](https://twitter.com/PMAJellies) | [WRP63（外服）](#copy:WRP63) |
 | 瞄准练习Ⅱ | 仅限麦克雷，将在目标点内随机生成不规则运动的红色目标，左上角为计分板 | RAMBE | [76WH2（外服）](#copy:76WH2) |
-| 瞄准练习Ⅲ | 可以通过交流菜单调整目标运动参数：<br>感谢：重置计时器及击杀计数；你好：将你传送至训练地点；需要治疗：返回复活点；<br>集合：使目标水平不规则移动；终极技能状态：使目标垂直移动；<br>收到：一击必杀模式或无法击杀模式；<br>语音上：增大复活半径；下：减小半径；左：减小目标点数量；右：增大数量 | [firenty](https://www.reddit.com/user/firenty) | [RDWK1（外服）](#copy:RDWK1) |
+| 瞄准练习Ⅲ | 可以通过交流菜单调整目标运动参数：<br>感谢：重置计时器及击杀计数；你好：将你传送至训练地点；需要治疗：返回复活点；<br>集合：使目标水平不规则移动；终极技能状态：使目标垂直移动；<br>收到：一击必杀模式或无法击杀模式；<br>语音上：增大复活半径；下：减小半径；左：减小目标点数量；右：增大数量 | [firenty](https://www.reddit.com/user/firenty) | [QN6S3（外服）](#copy:QN6S3) |
 | 瞄准练习Ⅳ | 按互动键（F）开始，按互动键+蹲下打开设置。<br>菜单从左到右为：传送到目标，增加/减少产生半径，增加/减少目标大小，增加/减少目标速度，死亡模式，闪电模式，堆叠模式，居中模式，增加/减少难度。 | [Pineapple__Squish](https://www.reddit.com/user/Pineapple__Squish/) | [RJ6X3（外服）](#copy:RJ6X3) |
 
 
