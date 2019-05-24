@@ -22,6 +22,7 @@ module.exports = [{
 		title: '工坊示例',
 		children: [
 			'/demo/',
+			'/demo/zero_based',
 			'/demo/mutation',
 			'/demo/aiming_and_perspective',
 			'/demo/2d'
