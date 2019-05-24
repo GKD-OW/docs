@@ -22,6 +22,7 @@ pageClass: page-works
 | 生化模式（大逃杀）| 地图：国王大道、暴雪世界、艾兴瓦尔德、绿洲城<br>人类需尽快到达蓝色目标点，到达后开始倒计时；<br>倒计时剩8s时，出现红色传送点，剩1s时，僵尸及未到达目标点的人类都会被传送到红色传送点；<br>人类到达地图最后一个目标点获胜，僵尸转化所有人类获胜；<br>每次人类获胜，僵尸都会变得更强（托比昂-莱因哈特-温斯顿-布丽吉塔） | [Zezombye](https://www.reddit.com/user/Zezombye) | [XKNDX（外服）](#copy:XKNDX) |
 | 无限宝石| 时间宝石：增加移动速度；灵魂宝石：获得HP回复能力；<br>力量宝石：增加攻击力；心灵宝石：加快终极技能充能速度；<br>空间宝石：按互动键传送；现实宝石：减少所受伤害；<br>击杀玩家可获得其持有的宝石之一；获得全部宝石将暴露所在位置；持有30s后，将会打响指并获胜 | [kaiomm](https://www.reddit.com/user/kaiomm) | [DR240（外服）](#copy:DR240) |
 | 躲避车 | 死斗模式，地图：绿洲城；<br>利用英雄技能、跳跃等方式躲避来往汽车，直至到达隧道尽头；<br>每次抵达终点后得一分并更换英雄，先完成20名英雄的玩家获胜 | [아론 페이지](https://www.youtube.com/watch?v=kxhVICQllic)<br>[墨球儿](http://space.bilibili.com/59547)搬运 | [C9DJ6（国服）](#copy:C9DJ6)<br> [WMJYD（外服）](#copy:WMJYD) |
+| 海盗船战争 | 每艘船具有20000点生命值，击沉对方的船获得胜利；<br>需要在大厅内添加两个简单路霸，一个在队伍1的2号位，另一个在队伍2的1号位 | [fuzzbucklol](https://www.reddit.com/user/fuzzbucklol)<br>[白漓](https://weibo.com/shiro1223)搬运 | [4M9WT（国服）](#copy:4M9WT)<br>[19CQC（外服）](#copy:19CQC) |
 
 
 ## 休闲类
