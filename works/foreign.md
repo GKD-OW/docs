@@ -14,17 +14,15 @@ pageClass: page-works
 
 | 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
 | --- | ------- | --- | ------------ | ---- |
-| 2D横版格斗 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bi3uh5/i_made_a_2d_sidescroll_on_busan/) | [HaxD3](https://www.reddit.com/user/HaxD3) | [79X9D](#copy:79X9D) | 暂无 |
-| 安娜一枪（加强版） | [Reddit](https://www.reddit.com/r/TheOverwatchWorkshop/comments/brmyr0/enhanced_ana_paintball_has_plenty_of_new_features/) | [JinkoNorray](https://www.reddit.com/user/JinkoNorray) | [YK7XJ](#copy:YK7XJ) | [7](https://www.owmod.net/work/view/7) |
 | 烫手山芋 | [Reddit](https://www.reddit.com/r/OverwatchCustomGames/comments/brjsxa/mccrees_hot_potato_gets_a_major_update/) | [olipoulihot](https://www.reddit.com/user/olipoulihot) | [M5DDB](#copy:M5DDB) | [2](https://www.owmod.net/work/view/2) |
-| 斯巴达版<br>禅雅塔死斗 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bjgvff/ive_made_sparta_mode_workshop_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [NEKEV](#copy:NEKEV) |
-
-
-| 细胞吞噬<br>Agar.io | 死斗模式，限定英雄路霸；<br>收集绿色食物或钩中其他玩家增大体积；收集蓝色光球可激活E技能，产生护盾；<br>钩中其他玩家可获得与其相同体积；吸收小于你的玩家造成击杀；<br>护盾可防止被吸收，但仍会被钩中；<br>随着体积增大，移速会逐渐降低；达到一定大小（默认30）即可获胜 | [CuddFlow](https://www.reddit.com/user/CuddFlow) | [2KW11（外服）](#copy:2KW11) |
-| 生化模式（大逃杀）| 地图：国王大道、暴雪世界、艾兴瓦尔德、绿洲城<br>人类需尽快到达蓝色目标点，到达后开始倒计时；<br>倒计时剩8s时，出现红色传送点，剩1s时，僵尸及未到达目标点的人类都会被传送到红色传送点；<br>人类到达地图最后一个目标点获胜，僵尸转化所有人类获胜；<br>每次人类获胜，僵尸都会变得更强（托比昂-莱因哈特-温斯顿-布丽吉塔） | [Zezombye](https://www.reddit.com/user/Zezombye) | [XKNDX（外服）](#copy:XKNDX) |
-| 无限宝石| 时间宝石：增加移动速度；灵魂宝石：获得HP回复能力；<br>力量宝石：增加攻击力；心灵宝石：加快终极技能充能速度；<br>空间宝石：按互动键传送；现实宝石：减少所受伤害；<br>击杀玩家可获得其持有的宝石之一；获得全部宝石将暴露所在位置；持有30s后，将会打响指并获胜 | [kaiomm](https://www.reddit.com/user/kaiomm) | [DR240（外服）](#copy:DR240) |
-| 躲避车 | 死斗模式，地图：绿洲城；<br>利用英雄技能、跳跃等方式躲避来往汽车，直至到达隧道尽头；<br>每次抵达终点后得一分并更换英雄，先完成20名英雄的玩家获胜 | [아론 페이지](https://www.youtube.com/watch?v=kxhVICQllic)<br>[墨球儿](http://space.bilibili.com/59547)搬运 | [C9DJ6（国服）](#copy:C9DJ6)<br> [WMJYD（外服）](#copy:WMJYD) |
-| 海盗船战争 | 每艘船具有20000点生命值，击沉对方的船获得胜利；<br>需要在大厅内添加两个简单路霸，一个在队伍1的2号位，另一个在队伍2的1号位 | [fuzzbucklol](https://www.reddit.com/user/fuzzbucklol)<br>[白漓](https://weibo.com/shiro1223)搬运 | [4M9WT（国服）](#copy:4M9WT)<br>[19CQC（外服）](#copy:19CQC) |
+| 躲避车 | [YouTube](https://www.youtube.com/watch?v=kxhVICQllic) | [아론 페이지](https://www.youtube.com/watch?v=kxhVICQllic) | [WMJYD](#copy:WMJYD) | [4](https://www.owmod.net/work/view/4) |
+| 安娜一枪（加强版） | [Reddit](https://www.reddit.com/r/TheOverwatchWorkshop/comments/brmyr0/enhanced_ana_paintball_has_plenty_of_new_features/) | [JinkoNorray](https://www.reddit.com/user/JinkoNorray) | [YK7XJ](#copy:YK7XJ) | [7](https://www.owmod.net/work/view/7) |
+| 2D横版格斗 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bi3uh5/i_made_a_2d_sidescroll_on_busan/) | [HaxD3](https://www.reddit.com/user/HaxD3) | [79X9D](#copy:79X9D) | 暂无 |
+| 斯巴达版禅雅塔死斗 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bjgvff/ive_made_sparta_mode_workshop_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [NEKEV](#copy:NEKEV) | 暂无 |
+| 细胞吞噬<br>Agar.io | [Reddit](https://www.reddit.com/r/Overwatch/comments/bi29d4/agario_remade_in_overwatch_link_description_in/) | [CuddFlow](https://www.reddit.com/user/CuddFlow) | [2KW11](#copy:2KW11) | 暂无 |
+| 生化模式（大逃杀）| [Elo Hell](https://workshop.elohell.gg/2GUy1M9gL/Zombie_Escape_v41) | [Zezombye](https://www.reddit.com/user/Zezombye) | [XKNDX](#copy:XKNDX) | 暂无 |
+| 无限宝石 | [Reddit](https://www.reddit.com/r/Overwatch/comments/blxd3v/infinity_stones_deathmatch_updated_petra/) | [kaiomm](https://www.reddit.com/user/kaiomm) | [DR240](#copy:DR240) | 暂无 |
+| 海盗船战争 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bq41pv/overwatch_pirate_ship_wars_workshop/) | [fuzzbucklol](https://www.reddit.com/user/fuzzbucklol) | [19CQC](#copy:19CQC) | [4M9WT](#copy:4M9WT) |
 
 
 ## 休闲类
