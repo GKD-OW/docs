@@ -28,7 +28,7 @@ pageClass: page-works
 ## 休闲类
 
 | 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
-| --- | ---- | --- | ------------ |
+| --- | ------- | --- | ------------ | ---- |
 | 艾什俄罗斯轮盘 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bj1oeq/workshop_ashe_roulette_v12n4sz8_now_with_less/) | [Oran9eUtan](https://www.reddit.com/user/Oran9eUtan) | [N4SZ8](#copy:N4SZ8) | 暂无 |
 | 托比昂保龄球 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bl6io0/oversports_ten_torbjorn_bowling_by_lym_andygmb/) | [Lymbow](https://www.reddit.com/user/Lymbow) | [Y6VRT](#copy:Y6VRT) | 暂无 |
 | Flappy Bird | [Reddit](https://www.reddit.com/r/Overwatch/comments/bp0xo4/its_finally_here_introducing_multiplayer_flappy/) | [Thriver9](https://www.reddit.com/user/Thriver9) | [4QY7N](#copy:4QY7N) | 暂无 |
@@ -39,7 +39,7 @@ pageClass: page-works
 ## 跑酷类
 
 | 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
-| --- | ---- | --- | ------------ |
+| --- | ------- | --- | ------------ | ---- |
 | 卢西奥-多拉多 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhcf4i/dorado_trial_1_code_prgrp/) | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [019D2](#copy:019D2) |
 | 卢西奥-直布罗陀 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bid4mw/i_made_another_wallriding_trial_and_its_much/) | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [Y88KB](#copy:Y88KB) |
 | 卢西奥-艾兴瓦尔德Ⅰ | - | - | [YVB13](#copy:YVB13) |
