@@ -14,7 +14,7 @@ pageClass: page-works
 
 | 名称 | 内容 | 作者 | 单击复制分享码 |
 | --- | ---- | --- | ------------ |
-| 2D横版格斗 | 地图：釜山，带平衡。<br>使用W、S移动；鼠标移动调整方向和转向； | [HaxD3](https://www.reddit.com/user/HaxD3) | [FE82B（外服）](#copy:FE82B) |
+| 2D横版格斗 | 地图：釜山，带平衡。<br>使用A\D移动；互动键调整转向；下蹲+互动可以调节复活速度 | [HaxD3](https://www.reddit.com/user/HaxD3) | [79X9D（外服）](#copy:79X9D) |
 | 安娜一枪（加强版） | 地图：艾兴瓦尔德、南极洲、佩特拉、吉拉德堡、伊利奥斯深井；<br>25击杀获胜，达成20击杀后全身着火；<br>致胜击杀（25）必须为睡针；开镜时间若达到1.5秒会眩晕1s | [JinkoNorray](https://www.reddit.com/user/JinkoNorray)<br>rig搬运 | [K4HQ7（国服）](#copy:K4HQ7)<br>[YK7XJ（外服）](#copy:YK7XJ) |
 | 烫手山芋 | 死斗模式；9地图随机；限定英雄麦克雷。<br>开局随机一人持有山芋并被点燃，HP逐渐减少；持有者可通过攻击其他玩家转移山芋；<br>持有者死亡后，山芋随机分配剩余玩家之一；存活至最后的玩家加一分，直至达到指定分数获胜；<br>E技能：纵向跳跃一定高度；终极技能：一定时间内免疫，免疫时间随玩家数量减少 | [olipoulihot](https://www.reddit.com/user/olipoulihot)<br>[墨球儿](http://space.bilibili.com/59547)搬运 | [594H2（国服）](#copy:594H2)<br>[M5DDB（外服）](#copy:M5DDB) |
 | 斯巴达版<br>禅雅塔死斗 | 死斗模式，墓园。<br>通过做表情为脚踢充能；收集地图中蓝色光球可临时增强脚踢强度<br>shift技能可短距离冲刺，冷却7s；终极技能可将周围敌人弹开；<br>通过将对手踢出地图造成击杀； | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [NEKEV（外服）](#copy:NEKEV) |
