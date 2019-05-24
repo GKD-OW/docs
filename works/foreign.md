@@ -32,7 +32,7 @@ pageClass: page-works
 | 艾什俄罗斯轮盘 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bj1oeq/workshop_ashe_roulette_v12n4sz8_now_with_less/) | [Oran9eUtan](https://www.reddit.com/user/Oran9eUtan) | [N4SZ8](#copy:N4SZ8) | 暂无 |
 | 托比昂保龄球 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bl6io0/oversports_ten_torbjorn_bowling_by_lym_andygmb/) | [Lymbow](https://www.reddit.com/user/Lymbow) | [Y6VRT](#copy:Y6VRT) | 暂无 |
 | Flappy Bird | [Reddit](https://www.reddit.com/r/Overwatch/comments/bp0xo4/its_finally_here_introducing_multiplayer_flappy/) | [Thriver9](https://www.reddit.com/user/Thriver9) | [4QY7N](#copy:4QY7N) | 暂无 |
-| 半藏塔防 | [Reddit](https://www.reddit.com/r/Overwatch/comments/booq35/workshop_gamemode_hanzos_wild_tower_defense/) | [TheRealPT0007](https://www.reddit.com/user/TheRealPT0007/) | [Y1PWP（外服）](#copy:Y1PWP) | 暂无 |
+| 半藏塔防 | [Reddit](https://www.reddit.com/r/Overwatch/comments/booq35/workshop_gamemode_hanzos_wild_tower_defense/) | [TheRealPT0007](https://www.reddit.com/user/TheRealPT0007/) | [Y1PWP](#copy:Y1PWP) | 暂无 |
 | 双英雄模式 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bmlnkc/i_made_a_mod_so_you_can_play_two_heroes_at_once/) | [Hawaiian_spawn](https://www.reddit.com/user/Hawaiian_spawn) | [Y1S15](#copy:Y1S15) | [G2EJA](#copy:G2EJA) |
 
 
@@ -64,8 +64,8 @@ pageClass: page-works
 
 | 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
 | --- | ------- | --- | ------------ | ---- |
-| 增强版标记系统 | [Reddit](https://www.reddit.com/r/Overwatch/comments/blqrwc/enchanced_ping_system_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [K65E4（外服）](#copy:K65E4) |
-| 自拍摄像头 | [Reddit](https://www.reddit.com/r/Overwatch/comments/biaz05/selfie_cam_mode_finally_here_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [X67X2](#copy:X67X2) |
+| 增强版标记系统 | [Reddit](https://www.reddit.com/r/Overwatch/comments/blqrwc/enchanced_ping_system_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [K65E4](#copy:K65E4) | 暂无 |
+| 自拍摄像头 | [Reddit](https://www.reddit.com/r/Overwatch/comments/biaz05/selfie_cam_mode_finally_here_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [X67X2](#copy:X67X2) | 暂无 |
 
 
 ## 英雄重做
