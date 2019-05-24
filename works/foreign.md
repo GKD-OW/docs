@@ -75,18 +75,18 @@ pageClass: page-works
 
 ## 英雄重做
 
-| 名称 | 内容 | 作者 | 单击复制分享码 |
-| --- | ---- | --- | ------------ |
-| 堡垒炮台版托比昂 | 按Q部署堡垒；堡垒会攻击托比昂面对的方向；左键修复堡垒 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [BEDTA（外服）](#copy:BEDTA) |
-| 托比昂大炮 | 堡垒在坦克模式下可发射托比昂作为炮弹；按shift为托比昂锁定攻击目标；按住右键使托比昂攻击目标 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [F3NVC（外服）](#copy:F3NVC) |
-| 飞行堡垒 | 堡垒在哨卫模式下可以飞行；按跳跃键升空，下蹲键降落；右键进行冲刺 | [LLDva](https://www.reddit.com/user/LLDva) | [9TBV2（外服）](#copy:9TBV2) |
-| 黑百合摄像头 | 剧毒诡雷可作为摄像头；按下蹲键切换至摄像头视角 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [RREWD（外服）](#copy:RREWD) |
-| 滑铲巴蒂斯特 | 前进状态下按互动键实现滑铲 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [28KPA（外服）](#copy:28KPA) |
-| 路霸抓钩 | 路霸钩子可实现黑百合抓钩效果 | [Altimor](https://www.reddit.com/user/Altimor) | [YPTEF（外服）](#copy:YPTEF) |
-| 时停EMP | 黑影终极技能EMP可以使时间停止；增加EMP计时器界面 | [Leo Hill](https://twitter.com/LeoHill10) | [8WXFX（外服）](#copy:8WXFX) |
-| 滑墙大锤 | 莱因哈特可以使用空格滑墙 | [w0rthiless](https://www.reddit.com/user/w0rthiless) | [YNV6M（外服）](#copy:YNV6M) |
-| 闪电球秩序之光 | 秩序之光可施放闪电球，在敌人之间反弹 | [Lymbow](https://www.reddit.com/user/Lymbow) | [YD4KM（外服）](#copy:YD4KM) |
-| 穿墙死神 | 死神的幽灵形态现在可以穿墙 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [DY7MH（外服）](#copy:DY7MH) |
-| 猎空闪回技能 | 所有英雄都可以使用互动键，实现猎空的闪回技能 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [KC981（外服）](#copy:KC981) |
-| 安娜机动性增强 | 为安娜制作了多个机动性技能：<br>半空中可使用半藏的跃技能跳跃；按住跳跃键可以爬墙；<br>按住下蹲键可蓄力跳跃，类似巴蒂斯特动力战靴；<br>向墙壁发射睡针可以实现黑百合抓钩效果；<br>生物手雷可以使自己获得4s加速效果 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [XJQY0（外服）](#copy:XJQY0) |
+| 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
+| --- | ------- | --- | ------------ | ---- |
+| 堡垒炮台版托比昂 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bj0tmt/deployable_bastion_turret_torb_ult_we_all_wanted/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [BEDTA](#copy:BEDTA) | 暂无 |
+| 托比昂大炮 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhzq8n/i_made_bastion_fire_torbjorns_that_lock_onto/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [WQNAD](#copy:WQNAD) | 暂无 |
+| 飞行堡垒 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhekc7/saw_this_gamemode_and_decided_to_try_the_workshop/) | [LLDva](https://www.reddit.com/user/LLDva) | [9TBV2](#copy:9TBV2) | 暂无 |
+| 黑百合摄像头 | - | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [RREWD](#copy:RREWD) | 暂无 |
+| 滑铲巴蒂斯特 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bjx7gf/apex_legends_style_slide_made_in_the_workshop/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [6R02B](#copy:6R02B) | 暂无 |
+| 路霸抓钩 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhacnk/i_made_hogs_hook_double_as_a_fully_functional/) | [Altimor](https://www.reddit.com/user/Altimor) | [3VA7X](#copy:3VA7X) | 暂无 |
+| 时停EMP | [Twitter](https://twitter.com/LeoHill10/status/1124437969308409858) | [Leo Hill](https://twitter.com/LeoHill10) | [NVAGK](#copy:NVAGK) | 暂无 |
+| 滑墙大锤 | [Reddit](https://www.reddit.com/r/reinhardtrollouts/comments/bharrg/reinhardt_20_rollout_wall_riding_workshop/) | [w0rthiless](https://www.reddit.com/user/w0rthiless) | [YNV6M](#copy:YNV6M) | 暂无 |
+| 闪电球秩序之光 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bi5jpx/custom_symmetra_ultimate_ball_lightning/) | [Lymbow](https://www.reddit.com/user/Lymbow) | [YD4KM](#copy:YD4KM) | 暂无 |
+| 穿墙死神 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bo4dj5/i_made_reaper_much_scarier_workshop_by/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [DY7MH](#copy:DY7MH) | 暂无 |
+| 猎空闪回技能 | - | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [KC981](#copy:KC981) | 暂无 |
+| 安娜机动性增强 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bknzqc/darwins_ana_nade_tool/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [1ZH9V](#copy:1ZH9V) | 暂无 |
 
