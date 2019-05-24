@@ -15,7 +15,7 @@ pageClass: page-works
 | 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
 | --- | ------- | --- | ------------ | ---- |
 | 烫手山芋 | [Reddit](https://www.reddit.com/r/OverwatchCustomGames/comments/brjsxa/mccrees_hot_potato_gets_a_major_update/) | [olipoulihot](https://www.reddit.com/user/olipoulihot) | [M5DDB](#copy:M5DDB) | [2](https://www.owmod.net/work/view/2) |
-| 躲避车 | [YouTube](https://www.youtube.com/watch?v=kxhVICQllic) | [아론 페이지](https://www.youtube.com/watch?v=kxhVICQllic) | [WMJYD](#copy:WMJYD) | [4](https://www.owmod.net/work/view/4) |
+| 躲避车 | - | - | [WMJYD](#copy:WMJYD) | [4](https://www.owmod.net/work/view/4) |
 | 安娜一枪（加强版） | [Reddit](https://www.reddit.com/r/TheOverwatchWorkshop/comments/brmyr0/enhanced_ana_paintball_has_plenty_of_new_features/) | [JinkoNorray](https://www.reddit.com/user/JinkoNorray) | [YK7XJ](#copy:YK7XJ) | [7](https://www.owmod.net/work/view/7) |
 | 2D横版格斗 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bi3uh5/i_made_a_2d_sidescroll_on_busan/) | [HaxD3](https://www.reddit.com/user/HaxD3) | [79X9D](#copy:79X9D) | 暂无 |
 | 斯巴达版禅雅塔死斗 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bjgvff/ive_made_sparta_mode_workshop_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [NEKEV](#copy:NEKEV) | 暂无 |
@@ -27,27 +27,24 @@ pageClass: page-works
 
 ## 休闲类
 
-| 名称 | 内容 | 作者 | 单击复制分享码 |
+| 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
 | --- | ---- | --- | ------------ |
-| 2D弹球 | 双方互相顶球，球不能落地 | 未知 | [F3N1X（外服）](#copy:F3N1X) |
-| 艾什俄罗斯轮盘（加强版） | 艾什打招呼随机两种语音；"Hello(你好)"概率高，"Hey"概率低；<br>若为Hello，则安全，反之被击杀；<br>增加了视觉特效与免伤设定 | [Oran9eUtan](https://www.reddit.com/user/Oran9eUtan) | [N4SZ8（外服）](#copy:N4SZ8) |
-| 托比昂保龄球 | 需要两个玩家，分别选择卢西奥及破坏球，并设置10个托比昂AI；<br>卢西奥可将破坏球推至所面朝的方向，按Q和E进行左右移动，按互动键重置 | [Lymbow](https://www.reddit.com/user/Lymbow) | [Y6VRT（外服）](#copy:Y6VRT) |
-| 五子棋 | 按互动F传送到棋盘附近；<br>双方轮流落子，5个连成线获胜；房主按Q快速清盘 | [xcr1234](https://github.com/xcr1234/) | [JHM9D（外服）](#copy:JHM9D) |
-| Flappy Bird | 最多可6人游戏，按空格控制法拉跳跃，速度会随着得分变高而变快 | [Thriver9](https://www.reddit.com/user/Thriver9) | [N7BEV（国服）](#copy:N7BEV)<br>[4QY7N（外服）](#copy:4QY7N) |
-| 半藏塔防 | 地图：墓地。进攻方可购买道具加速、治疗、冻结、传送（使用五次）和变身DVA。防守方可购买伤害增加、射速增加 | [TheRealPT0007](https://www.reddit.com/user/TheRealPT0007/) | [Y1PWP（外服）](#copy:Y1PWP) |
-| 双英雄模式 | 开始游戏时选择两个英雄，按下互动键切换副英雄<br>【修复】修复了其他英雄有大招的情况下换成黑影、dva不能开大的问题；<br>【更改】现在小dva状态下无法切换英雄 | [Hawaiian_spawn](https://www.reddit.com/user/Hawaiian_spawn)<br>[Shalow](http://space.bilibili.com/33281282)修改&搬运 | [G2EJA（国服）](#copy:G2EJA)<br>[Y1S15（外服）](#copy:Y1S15) |
-| 源氏元素刀 | 被砍到会收到 冰冻 晕眩 被黑 睡针效果 跟秒刀也就差不多 | 未知，由丶锤D坑搬运 | [EZRT6（国服）](#copy:EZRT6) |
+| 艾什俄罗斯轮盘 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bj1oeq/workshop_ashe_roulette_v12n4sz8_now_with_less/) | [Oran9eUtan](https://www.reddit.com/user/Oran9eUtan) | [N4SZ8](#copy:N4SZ8) | 暂无 |
+| 托比昂保龄球 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bl6io0/oversports_ten_torbjorn_bowling_by_lym_andygmb/) | [Lymbow](https://www.reddit.com/user/Lymbow) | [Y6VRT](#copy:Y6VRT) | 暂无 |
+| Flappy Bird | [Reddit](https://www.reddit.com/r/Overwatch/comments/bp0xo4/its_finally_here_introducing_multiplayer_flappy/) | [Thriver9](https://www.reddit.com/user/Thriver9) | [4QY7N](#copy:4QY7N) | 暂无 |
+| 半藏塔防 | [Reddit](https://www.reddit.com/r/Overwatch/comments/booq35/workshop_gamemode_hanzos_wild_tower_defense/) | [TheRealPT0007](https://www.reddit.com/user/TheRealPT0007/) | [Y1PWP（外服）](#copy:Y1PWP) | 暂无 |
+| 双英雄模式 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bmlnkc/i_made_a_mod_so_you_can_play_two_heroes_at_once/) | [Hawaiian_spawn](https://www.reddit.com/user/Hawaiian_spawn) | [Y1S15](#copy:Y1S15) | [G2EJA](#copy:G2EJA) |
 
 
 ## 跑酷类
 
-| 名称 | 内容 | 作者 | 单击复制分享码 |
+| 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
 | --- | ---- | --- | ------------ |
-| 卢西奥-多拉多 | 开始于进攻方A点 | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [019D2（外服）](#copy:019D2) |
-| 卢西奥-直布罗陀 | 直布罗陀B点 | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [Y88KB（外服）](#copy:Y88KB) |
-| 卢西奥-艾兴瓦尔德Ⅰ | 开始于进攻方A点 | 未知 | [YVB13（外服）](#copy:YVB13) |
-| 卢西奥-艾兴瓦尔德Ⅱ | 开始于防守方C点<br>按顺序依次通过40个检查点；按crtl键返回起点<br>国服代码可以存档（按F存档，鼠标左键读档） | [waycoolway](https://www.reddit.com/user/waycoolway)<br>[泷涯](https://space.bilibili.com/2002598)搬运 | [T1JZ1（国服）](#copy:T1JZ1)<br>[PHSHA（外服）](#copy:PHSHA) |
-| 竞速赛 | 地图：66号公路、多拉多、渣客镇、监测站：直布罗陀、里阿尔托；<br>英雄：破坏球、卢西奥、黑百合；随机产生加速环与冰冻陷阱 | [Daniel Fenner](https://twitter.com/DanielFenner) <br> [Dane Fairbanks](https://twitter.com/danefairbanks) | [Q8KT7（外服）](#copy:Q8KT7) |
+| 卢西奥-多拉多 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhcf4i/dorado_trial_1_code_prgrp/) | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [019D2](#copy:019D2) |
+| 卢西奥-直布罗陀 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bid4mw/i_made_another_wallriding_trial_and_its_much/) | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [Y88KB](#copy:Y88KB) |
+| 卢西奥-艾兴瓦尔德Ⅰ | - | - | [YVB13](#copy:YVB13) |
+| 卢西奥-艾兴瓦尔德Ⅱ | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhwe2k/i_made_a_lucio_racingskill_course_game_mode_ph0bj/) | [waycoolway](https://www.reddit.com/user/waycoolway) | [PHSHA](#copy:PHSHA) | [1](https://www.owmod.net/work/view/1) |
+| 竞速赛 | [Twitter](https://twitter.com/DanielFenner/status/1122291285103194112) | [Daniel Fenner](https://twitter.com/DanielFenner) <br> [Dane Fairbanks](https://twitter.com/danefairbanks) | [Q8KT7](#copy:Q8KT7) |
 
 
 ## 练习类
