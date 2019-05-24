@@ -19,7 +19,7 @@ pageClass: page-works
 | 安娜一枪（加强版） | [Reddit](https://www.reddit.com/r/TheOverwatchWorkshop/comments/brmyr0/enhanced_ana_paintball_has_plenty_of_new_features/) | [JinkoNorray](https://www.reddit.com/user/JinkoNorray) | [YK7XJ](#copy:YK7XJ) | [7](https://www.owmod.net/work/view/7) |
 | 2D横版格斗 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bi3uh5/i_made_a_2d_sidescroll_on_busan/) | [HaxD3](https://www.reddit.com/user/HaxD3) | [79X9D](#copy:79X9D) | 暂无 |
 | 斯巴达版禅雅塔死斗 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bjgvff/ive_made_sparta_mode_workshop_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [NEKEV](#copy:NEKEV) | 暂无 |
-| 细胞吞噬<br>Agar.io | [Reddit](https://www.reddit.com/r/Overwatch/comments/bi29d4/agario_remade_in_overwatch_link_description_in/) | [CuddFlow](https://www.reddit.com/user/CuddFlow) | [2KW11](#copy:2KW11) | 暂无 |
+| 细胞吞噬 Agar.io | [Reddit](https://www.reddit.com/r/Overwatch/comments/bi29d4/agario_remade_in_overwatch_link_description_in/) | [CuddFlow](https://www.reddit.com/user/CuddFlow) | [2KW11](#copy:2KW11) | 暂无 |
 | 生化模式（大逃杀）| [Elo Hell](https://workshop.elohell.gg/2GUy1M9gL/Zombie_Escape_v41) | [Zezombye](https://www.reddit.com/user/Zezombye) | [XKNDX](#copy:XKNDX) | 暂无 |
 | 无限宝石 | [Reddit](https://www.reddit.com/r/Overwatch/comments/blxd3v/infinity_stones_deathmatch_updated_petra/) | [kaiomm](https://www.reddit.com/user/kaiomm) | [DR240](#copy:DR240) | 暂无 |
 | 海盗船战争 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bq41pv/overwatch_pirate_ship_wars_workshop/) | [fuzzbucklol](https://www.reddit.com/user/fuzzbucklol) | [19CQC](#copy:19CQC) | [4M9WT](#copy:4M9WT) |
@@ -40,24 +40,24 @@ pageClass: page-works
 
 | 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
 | --- | ------- | --- | ------------ | ---- |
+| 卢西奥-艾兴瓦尔德Ⅰ | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhwe2k/i_made_a_lucio_racingskill_course_game_mode_ph0bj/) | [waycoolway](https://www.reddit.com/user/waycoolway) | [PHSHA](#copy:PHSHA) | [1](https://www.owmod.net/work/view/1) |
+| 卢西奥-艾兴瓦尔德Ⅱ | - | - | [YVB13](#copy:YVB13) |
 | 卢西奥-多拉多 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhcf4i/dorado_trial_1_code_prgrp/) | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [019D2](#copy:019D2) |
 | 卢西奥-直布罗陀 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bid4mw/i_made_another_wallriding_trial_and_its_much/) | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [Y88KB](#copy:Y88KB) |
-| 卢西奥-艾兴瓦尔德Ⅰ | - | - | [YVB13](#copy:YVB13) |
-| 卢西奥-艾兴瓦尔德Ⅱ | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhwe2k/i_made_a_lucio_racingskill_course_game_mode_ph0bj/) | [waycoolway](https://www.reddit.com/user/waycoolway) | [PHSHA](#copy:PHSHA) | [1](https://www.owmod.net/work/view/1) |
 | 竞速赛 | [Twitter](https://twitter.com/DanielFenner/status/1122291285103194112) | [Daniel Fenner](https://twitter.com/DanielFenner) <br> [Dane Fairbanks](https://twitter.com/danefairbanks) | [Q8KT7](#copy:Q8KT7) |
 
 
 ## 练习类
 
-| 名称 | 内容 | 作者 | 单击复制分享码 |
-| --- | ---- | --- | ------------ |
-| 抛射物练习 | 适用于安娜手雷、奥丽莎护盾、查莉雅、小美、托比昂大招、巴蒂斯特右键；<br>按互动键切换至观察视角，紫色圈为预测落地位置，绿色圈为实际落地位置；<br>手雷追踪镜头：按Q激活，镜头会跟随安娜手雷路径；<br>暂不支持有天花板及墙壁碰撞的情况 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [QHQ8E（外服）](#copy:QHQ8E) |
-| 源氏龙刃练习 | 可选择开启激素、复活及第三人称视角；开始前需在大厅给己方添加两个困难安娜AI | [Nakotsu09](https://twitter.com/Nakotsu09)<br>rig搬运 | [9KA5T（国服）](#copy:9KA5T)<br>[BE8VH（外服）](#copy:BE8VH) |
-| 莱因哈特练习 | 走进蓝色圆圈开始。按“我需要治疗”来练习安娜睡眠，按“你好”练习对抗烈焰打击和冲锋 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky/) | [440GD（外服）](#copy:440GD) |
-| 瞄准练习Ⅰ | 分为两种模式：目标会快速出现并消失、目标只有被击中才会消失；<br>可手动选择英雄、模式及目标颜色 | [PMAJellies](https://twitter.com/PMAJellies) | [BQSSS（外服）](#copy:BQSSS) |
-| 瞄准练习Ⅱ | 仅限麦克雷，将在目标点内随机生成不规则运动的红色目标，左上角为计分板 | RAMBE | [EY9J6（外服）](#copy:EY9J6) |
-| 瞄准练习Ⅲ | 可以通过交流菜单调整目标运动参数：<br>感谢：重置计时器及击杀计数；你好：将你传送至训练地点；需要治疗：返回复活点；<br>集合：使目标水平不规则移动；终极技能状态：使目标垂直移动；<br>收到：一击必杀模式或无法击杀模式；<br>语音上：增大复活半径；下：减小半径；左：减小目标点数量；右：增大数量 | [firenty](https://www.reddit.com/user/firenty) | [QN6S3（外服）](#copy:QN6S3) |
-| 瞄准练习Ⅳ | 按互动键（F）开始，按互动键+蹲下打开设置。<br>菜单从左到右为：传送到目标，增加/减少产生半径，增加/减少目标大小，增加/减少目标速度，死亡模式，闪电模式，堆叠模式，居中模式，增加/减少难度。 | [Pineapple__Squish](https://www.reddit.com/user/Pineapple__Squish/) | [RJ6X3（外服）](#copy:RJ6X3) |
+| 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
+| --- | ------- | --- | ------------ | ---- |
+| 抛射物练习 | [Reddit](https://www.reddit.com/r/Overwatch/comments/brd8k3/darwins_ana_nade_tool_v12_added_ashe_baptiste_mei/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [QHQ8E](#copy:QHQ8E) | 暂无 |
+| 源氏龙刃练习 | [Twitter](https://twitter.com/Nakotsu09/status/1125017679679463424) | [Nakotsu09](https://twitter.com/Nakotsu09) | [BE8VH](#copy:BE8VH) | [5](https://www.owmod.net/work/view/5) |
+| 莱因哈特练习 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bppuai/ninja_ana_paintball_workshop_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky/) | [440GD](#copy:440GD) | [10](https://www.owmod.net/work/view/10) |
+| 瞄准练习Ⅰ | [Elo Hell](https://workshop.elohell.gg/P0oO8STBa/PMAJellies_Aim_Trainer_V2) | [PMAJellies](https://twitter.com/PMAJellies) | [BQSSS](#copy:BQSSS) |
+| 瞄准练习Ⅱ | [Elo Hell](https://workshop.elohell.gg/a_Km0-jeI/Aim_Practice_RAMBE_Update_12th_May_2019) | RAMBE | [EY9J6](#copy:EY9J6) |
+| 瞄准练习Ⅲ | [Reddit](https://www.reddit.com/r/Overwatch/comments/biuex8/overwatch_workshop_aim_practice_v2_homemade/) | [firenty](https://www.reddit.com/user/firenty) | [QN6S3](#copy:QN6S3) |
+| 瞄准练习Ⅳ | [Reddit](https://www.reddit.com/r/Overwatch/comments/bpapl2/workshop_i_made_a_target_practice_tool_with_3d/) | [Pineapple__Squish](https://www.reddit.com/user/Pineapple__Squish/) | [RJ6X3](#copy:RJ6X3) |
 
 
 ## 功能扩展
@@ -82,6 +82,6 @@ pageClass: page-works
 | 滑墙大锤 | [Reddit](https://www.reddit.com/r/reinhardtrollouts/comments/bharrg/reinhardt_20_rollout_wall_riding_workshop/) | [w0rthiless](https://www.reddit.com/user/w0rthiless) | [YNV6M](#copy:YNV6M) | 暂无 |
 | 闪电球秩序之光 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bi5jpx/custom_symmetra_ultimate_ball_lightning/) | [Lymbow](https://www.reddit.com/user/Lymbow) | [YD4KM](#copy:YD4KM) | 暂无 |
 | 穿墙死神 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bo4dj5/i_made_reaper_much_scarier_workshop_by/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [DY7MH](#copy:DY7MH) | 暂无 |
-| 猎空闪回技能 | - | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [KC981](#copy:KC981) | 暂无 |
+| 猎空闪回技能 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bn19b0/tracers_recall_for_any_hero_workshop_by/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [KC981](#copy:KC981) | 暂无 |
 | 安娜机动性增强 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bknzqc/darwins_ana_nade_tool/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [1ZH9V](#copy:1ZH9V) | 暂无 |
 
