@@ -41,10 +41,10 @@ pageClass: page-works
 | 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
 | --- | ------- | --- | ------------ | ---- |
 | 卢西奥-艾兴瓦尔德Ⅰ | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhwe2k/i_made_a_lucio_racingskill_course_game_mode_ph0bj/) | [waycoolway](https://www.reddit.com/user/waycoolway) | [PHSHA](#copy:PHSHA) | [1](https://www.owmod.net/work/view/1) |
-| 卢西奥-艾兴瓦尔德Ⅱ | - | - | [YVB13](#copy:YVB13) |
-| 卢西奥-多拉多 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhcf4i/dorado_trial_1_code_prgrp/) | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [019D2](#copy:019D2) |
-| 卢西奥-直布罗陀 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bid4mw/i_made_another_wallriding_trial_and_its_much/) | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [Y88KB](#copy:Y88KB) |
-| 竞速赛 | [Twitter](https://twitter.com/DanielFenner/status/1122291285103194112) | [Daniel Fenner](https://twitter.com/DanielFenner) <br> [Dane Fairbanks](https://twitter.com/danefairbanks) | [Q8KT7](#copy:Q8KT7) |
+| 卢西奥-艾兴瓦尔德Ⅱ | - | - | [YVB13](#copy:YVB13) | 暂无 |
+| 卢西奥-多拉多 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhcf4i/dorado_trial_1_code_prgrp/) | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [019D2](#copy:019D2) | 暂无 |
+| 卢西奥-直布罗陀 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bid4mw/i_made_another_wallriding_trial_and_its_much/) | [Toilet_Assassin](https://www.reddit.com/user/Toilet_Assassin) | [Y88KB](#copy:Y88KB) | 暂无 |
+| 竞速赛 | [Twitter](https://twitter.com/DanielFenner/status/1122291285103194112) | [Daniel Fenner](https://twitter.com/DanielFenner) <br> [Dane Fairbanks](https://twitter.com/danefairbanks) | [Q8KT7](#copy:Q8KT7) | 暂无 |
 
 
 ## 练习类
@@ -54,18 +54,18 @@ pageClass: page-works
 | 抛射物练习 | [Reddit](https://www.reddit.com/r/Overwatch/comments/brd8k3/darwins_ana_nade_tool_v12_added_ashe_baptiste_mei/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [QHQ8E](#copy:QHQ8E) | 暂无 |
 | 源氏龙刃练习 | [Twitter](https://twitter.com/Nakotsu09/status/1125017679679463424) | [Nakotsu09](https://twitter.com/Nakotsu09) | [BE8VH](#copy:BE8VH) | [5](https://www.owmod.net/work/view/5) |
 | 莱因哈特练习 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bppuai/ninja_ana_paintball_workshop_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky/) | [440GD](#copy:440GD) | [10](https://www.owmod.net/work/view/10) |
-| 瞄准练习Ⅰ | [Elo Hell](https://workshop.elohell.gg/P0oO8STBa/PMAJellies_Aim_Trainer_V2) | [PMAJellies](https://twitter.com/PMAJellies) | [BQSSS](#copy:BQSSS) |
-| 瞄准练习Ⅱ | [Elo Hell](https://workshop.elohell.gg/a_Km0-jeI/Aim_Practice_RAMBE_Update_12th_May_2019) | RAMBE | [EY9J6](#copy:EY9J6) |
-| 瞄准练习Ⅲ | [Reddit](https://www.reddit.com/r/Overwatch/comments/biuex8/overwatch_workshop_aim_practice_v2_homemade/) | [firenty](https://www.reddit.com/user/firenty) | [QN6S3](#copy:QN6S3) |
-| 瞄准练习Ⅳ | [Reddit](https://www.reddit.com/r/Overwatch/comments/bpapl2/workshop_i_made_a_target_practice_tool_with_3d/) | [Pineapple__Squish](https://www.reddit.com/user/Pineapple__Squish/) | [RJ6X3](#copy:RJ6X3) |
+| 瞄准练习Ⅰ | [Elo Hell](https://workshop.elohell.gg/P0oO8STBa/PMAJellies_Aim_Trainer_V2) | [PMAJellies](https://twitter.com/PMAJellies) | [BQSSS](#copy:BQSSS) | 暂无 |
+| 瞄准练习Ⅱ | [Elo Hell](https://workshop.elohell.gg/a_Km0-jeI/Aim_Practice_RAMBE_Update_12th_May_2019) | RAMBE | [EY9J6](#copy:EY9J6) | 暂无 |
+| 瞄准练习Ⅲ | [Reddit](https://www.reddit.com/r/Overwatch/comments/biuex8/overwatch_workshop_aim_practice_v2_homemade/) | [firenty](https://www.reddit.com/user/firenty) | [QN6S3](#copy:QN6S3) | [9](https://www.owmod.net/work/view/9) |
+| 瞄准练习Ⅳ | [Reddit](https://www.reddit.com/r/Overwatch/comments/bpapl2/workshop_i_made_a_target_practice_tool_with_3d/) | [Pineapple__Squish](https://www.reddit.com/user/Pineapple__Squish/) | [RJ6X3](#copy:RJ6X3) | 暂无 |
 
 
 ## 功能扩展
 
-| 名称 | 内容 | 作者 | 单击复制分享码 |
-| --- | ---- | --- | ------------ |
-| 增强版标记系统 | 类似Apex的标记功能，包括集合、进攻、集火目标及求助 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [K65E4（外服）](#copy:K65E4) |
-| 自拍摄像头 | 按互动键进入自拍模式，通过跳跃键及下蹲键控制摄像头高低 | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [X67X2（外服）](#copy:X67X2) |
+| 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
+| --- | ------- | --- | ------------ | ---- |
+| 增强版标记系统 | [Reddit](https://www.reddit.com/r/Overwatch/comments/blqrwc/enchanced_ping_system_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [K65E4（外服）](#copy:K65E4) |
+| 自拍摄像头 | [Reddit](https://www.reddit.com/r/Overwatch/comments/biaz05/selfie_cam_mode_finally_here_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [X67X2](#copy:X67X2) |
 
 
 ## 英雄重做
