@@ -1,5 +1,5 @@
 ---
-title: 功能手册
+title: 参考手册（旧）
 lang: zh-CN
 pageClass: page-manual
 ---
@@ -9,8 +9,6 @@ pageClass: page-manual
 基本操作、事件请参考[官方说明](https://ow.blizzard.cn/article/news/1307)
 
 ## 值（VALUE)
-
-> 由NGA用户[YSRSSS](https://bbs.nga.cn/nuke.php?func=ucp&uid=38703602)整理
 
 ### 矢量类
 
@@ -249,8 +247,6 @@ pageClass: page-manual
 | 随机整数 | 指定最小值与最大值之间的一个随机整数(包括最小值与最大值在内)。 |
 
 ## 行动 (ACTION)
-
-> 由NGA用户[YSRSSS](https://bbs.nga.cn/nuke.php?func=ucp&uid=38703602)整理
 
 ### 流程控制类
 
