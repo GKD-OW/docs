@@ -29,8 +29,11 @@ module.exports = [{
 	},
 	{
 		title: '作品收集',
-		children: [
-			'/works/',
+		children: [{
+				title: '国服作品',
+				path: 'https://www.owmod.net/'
+			},
+			'/works/foreign',
 			'/works/submit',
 		]
 	}
