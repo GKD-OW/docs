@@ -68,16 +68,16 @@ pageClass: page-works
 
 ## 功能扩展
 
-| 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
-| --- | ------- | --- | ------------ | ---- |
+| 名称 | 原始地址 | 作者 | 分享码 | 国服 |
+| --- | ------- | --- | ----- | ---- |
 | 增强版标记系统 | [Reddit](https://www.reddit.com/r/Overwatch/comments/blqrwc/enchanced_ping_system_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [K65E4](#copy:K65E4) | 暂无 |
 | 自拍摄像头 | [Reddit](https://www.reddit.com/r/Overwatch/comments/biaz05/selfie_cam_mode_finally_here_by_darwinstreams/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [X67X2](#copy:X67X2) | 暂无 |
 
 
 ## 英雄重做
 
-| 名称 | 原始地址 | 作者 | 单击复制分享码 | 国服 |
-| --- | ------- | --- | ------------ | ---- |
+| 名称 | 原始地址 | 作者 | 分享码 | 国服 |
+| --- | ------- | --- | ----- | ---- |
 | 堡垒炮台版托比昂 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bj0tmt/deployable_bastion_turret_torb_ult_we_all_wanted/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [BEDTA](#copy:BEDTA) | 暂无 |
 | 托比昂大炮 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhzq8n/i_made_bastion_fire_torbjorns_that_lock_onto/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [WQNAD](#copy:WQNAD) | 暂无 |
 | 飞行堡垒 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhekc7/saw_this_gamemode_and_decided_to_try_the_workshop/) | [LLDva](https://www.reddit.com/user/LLDva) | [9TBV2](#copy:9TBV2) | 暂无 |
