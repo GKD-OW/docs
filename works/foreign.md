@@ -63,6 +63,7 @@ pageClass: page-works
 | 瞄准练习Ⅲ | [Elo Hell](https://workshop.elohell.gg/a_Km0-jeI/Aim_Practice_RAMBE_Update_12th_May_2019) | RAMBE | [EY9J6](#copy:EY9J6) | 暂无 |
 | 瞄准练习Ⅳ | [Reddit](https://www.reddit.com/r/Overwatch/comments/bpapl2/workshop_i_made_a_target_practice_tool_with_3d/) | [Pineapple__Squish](https://www.reddit.com/user/Pineapple__Squish/) | [RJ6X3](#copy:RJ6X3) | 暂无 |
 | 抛射物练习 | [Reddit](https://www.reddit.com/r/Overwatch/comments/brd8k3/darwins_ana_nade_tool_v12_added_ashe_baptiste_mei/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [QHQ8E](#copy:QHQ8E) | 暂无 |
+| 弹道类瞄准练习 | [Reddit](https://www.reddit.com/r/Competitiveoverwatch/comments/bspwcy/workshop_aerial_aim_trainer_for_predictable_air/) | [Giacomand](https://www.reddit.com/user/Giacomand) | [P3PZC](#copy:P3PZC) | 暂无 |
 
 
 ## 功能扩展
