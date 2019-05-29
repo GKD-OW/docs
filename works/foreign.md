@@ -25,6 +25,7 @@ pageClass: page-works
 | 无限宝石 | [Reddit](https://www.reddit.com/r/Overwatch/comments/blxd3v/infinity_stones_deathmatch_updated_petra/) | [kaiomm](https://www.reddit.com/user/kaiomm) | [DR240](#copy:DR240) | 暂无 |
 | 偷王冠 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bny4kt/presenting_steal_the_crown_my_reverse_tag_gamemode/) | [olipoulihot](https://www.reddit.com/user/olipoulihot) | [0X8N0](#copy:0X8N0) | 暂无 |
 | 排球 | [YouTube](https://www.youtube.com/watch?v=6wREW4WrLaU) | [라샤](https://www.youtube.com/channel/UCsy0puFN40_fMdVnSYai7vQ) | [HNRXF](#copy:HNRXF) | 暂无 |
+| 躲避球 | [Elo Hell](https://workshop.elohell.gg/8wisSggm3) | [Lymbow](https://www.reddit.com/user/Lymbow) | [C3S3H](#copy:C3S3H) | 暂无 |
 
 
 ## 休闲类
