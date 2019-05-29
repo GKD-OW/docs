@@ -14,6 +14,7 @@ module.exports = [{
 			'/manual/old',
 			'/manual/array',
 			'/manual/continued_event',
+			'/manual/observer',
 			'/manual/vector',
 			'/manual/tips'
 		]
