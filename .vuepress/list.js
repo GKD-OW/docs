@@ -20,7 +20,7 @@ module.exports = [{
 		]
 	},
 	{
-		title: '工坊示例',
+		title: '教程示例',
 		children: [
 			'/demo/',
 			'/demo/zero_based',

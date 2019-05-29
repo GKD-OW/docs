@@ -1,9 +1,9 @@
 ---
-title: 工坊示例
+title: 教程示例
 lang: zh-CN
 ---
 
-# 工坊示例
+# 教程示例
 
 若您没有任何基础，建议先阅读[零基础入门](zero_based.md)。另外，Bilibili的UP主也有制作[视频教程](https://www.bilibili.com/video/av53276348)
 
