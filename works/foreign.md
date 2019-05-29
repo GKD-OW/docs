@@ -86,7 +86,7 @@ pageClass: page-works
 | 路霸抓钩 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bhacnk/i_made_hogs_hook_double_as_a_fully_functional/) | [Altimor](https://www.reddit.com/user/Altimor) | [3VA7X](#copy:3VA7X) | 暂无 |
 | 时停EMP | [Twitter](https://twitter.com/LeoHill10/status/1124437969308409858) | [Leo Hill](https://twitter.com/LeoHill10) | [NVAGK](#copy:NVAGK) | 暂无 |
 | 滑墙大锤 | [Reddit](https://www.reddit.com/r/reinhardtrollouts/comments/bharrg/reinhardt_20_rollout_wall_riding_workshop/) | [w0rthiless](https://www.reddit.com/user/w0rthiless) | [YNV6M](#copy:YNV6M) | 暂无 |
-| 闪电球秩序之光 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bi5jpx/custom_symmetra_ultimate_ball_lightning/) | [Lymbow](https://www.reddit.com/user/Lymbow) | [YD4KM](#copy:YD4KM) | 暂无 |
+| 闪电球秩序之光 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bi5jpx/custom_symmetra_ultimate_ball_lightning/) | [Lymbow](https://www.reddit.com/user/Lymbow) | [YD4KM](#copy:YD4KM) | [#56](https://www.owmod.net/work/view/56) |
 | 穿墙死神 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bo4dj5/i_made_reaper_much_scarier_workshop_by/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [DY7MH](#copy:DY7MH) | 暂无 |
 | 猎空闪回技能 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bn19b0/tracers_recall_for_any_hero_workshop_by/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [KC981](#copy:KC981) | 暂无 |
 | 安娜机动性增强 | [Reddit](https://www.reddit.com/r/Overwatch/comments/bknzqc/darwins_ana_nade_tool/) | [DarkyPaky](https://www.reddit.com/user/DarkyPaky) | [1ZH9V](#copy:1ZH9V) | 暂无 |
