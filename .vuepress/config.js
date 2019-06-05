@@ -33,12 +33,12 @@ module.exports = {
     }, {
       text: 'QQ群',
       items: [{
-          text: '交流群',
+          text: '交流群Ⅰ',
           link: 'https://jq.qq.com/?_wv=1027&k=5J2QSeu'
         },
         {
-          text: '测试群',
-          link: 'https://jq.qq.com/?_wv=1027&k=5oGqbYZ'
+          text: '交流群Ⅱ',
+          link: 'https://jq.qq.com/?_wv=1027&k=5uVyEyn'
         }
       ]
     }],
