@@ -16,6 +16,7 @@ module.exports = [{
 			'/manual/continued_event',
 			'/manual/observer',
 			'/manual/vector',
+			'/manual/core',
 			'/manual/tips'
 		]
 	},
