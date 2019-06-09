@@ -8,7 +8,7 @@ pageClass: page-works
 
 这里会收集一些优秀的外服作品，并尽可能提供分享码。因为分享码具有时效性，若您创建了分享码，可以[进行提交](submit.md)，供他人使用。
 
-外服代码收集网站：[overwatchmodding.com](https://overwatchmodding.com/) [workshop.elohell.gg](https://workshop.elohell.gg/)
+外服代码收集网站：[overwatchmodding.com](https://overwatchmodding.com/) [workshop.elohell.gg](https://workshop.elohell.gg/) [overwatchforge.com](https://overwatchforge.com/)
 
 如果您希望将您的作品分享给大家，也可以[进行提交](submit.md)。
 
