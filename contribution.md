@@ -29,7 +29,7 @@ lang: zh-CN
 * [yasuotu.com](https://www.yasuotu.com/)
 * [iloveimg.com](https://www.iloveimg.com/zh-cn/compress-image/compress-jpg)
 
-上传至公共图床，如(路过图床)[https://imgchr.com/]、[SM.MS](https://sm.ms/)，然后复制Markdown代码，粘贴到文章中
+上传至公共图床，如[路过图床](https://imgchr.com/)、[SM.MS](https://sm.ms/)，然后复制Markdown代码，粘贴到文章中
 
 ## 创建新文档
 
