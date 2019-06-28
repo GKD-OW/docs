@@ -14,6 +14,7 @@ lang: zh-CN
 | 名称 | 难度 | 说明 |
 | --- | --- | --- |
 | [零基础入门](tutorial/zero_based.md) | ★☆☆☆☆ | 入门教程，介绍了规则、变量的基本概念和使用 |
+| [常见功能](tutorial/common.md) | ★★☆☆☆ | 一些常见的功能是怎么做的 |
 | [生化模式](tutorial/mutation.md) | ★★★☆☆ | 一个简单的生化模式是怎么一步一步做出来的 |
 | [2D格斗解析](tutorial/2d.md) | ★★☆☆☆ | 解析2D横版格斗的基本规则 |
 | [自瞄和透视解析](tutorial/aiming_and_perspective.md) | ★★☆☆☆ | 解析最基本的自瞄和透视的基本规则 |

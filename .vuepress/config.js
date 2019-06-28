@@ -1,7 +1,7 @@
 module.exports = {
   base: "/",
-  title: "地图工坊",
-  description: "地图工坊",
+  title: "熔火工坊文档",
+  description: "地图工坊,守望先锋,地图工坊教程,地图工坊文档,熔火工坊文档",
   markdown: {
     lineNumbers: true,
     toc: {

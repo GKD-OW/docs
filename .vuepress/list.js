@@ -9,6 +9,7 @@ module.exports = [{
 		title: '教程',
 		children: [
 			'/tutorial/zero_based',
+			'/tutorial/common',
 			'/tutorial/mutation',
 			'/tutorial/2d',
 			'/tutorial/aiming_and_perspective',
