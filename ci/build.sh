@@ -7,7 +7,7 @@ main() {
 		return 0
 	fi
 
-	github_repo="sylingd/ow-workshop"
+	github_repo="GKD-OW/docs"
 	github_branch="gh-pages"
 	
 	cd $TRAVIS_BUILD_DIR
