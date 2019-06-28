@@ -21,7 +21,7 @@ module.exports = {
     }]
   ],
   themeConfig: {
-    repo: "sylingd/ow-workshop",
+    repo: "GKD-OW/docs",
     editLinks: true,
     lang: 'zh-CN',
     editLinkText: '在 GitHub 上编辑此页',
