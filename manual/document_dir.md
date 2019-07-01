@@ -31,5 +31,8 @@ lang: zh-CN
 ## 字符串
 - [字符串](documents/string.md)
 
+## 效果与音效
+- [效果与音效](https://www.yuque.com/zhaohua-zgi3w/overwatch-document/tykhqq)
+
 ## 图标示例
 - [图标](documents/icon.md)
