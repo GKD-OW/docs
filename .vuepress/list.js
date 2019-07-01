@@ -20,7 +20,7 @@ module.exports = [{
 	{
 		title: '手册',
 		children: [
-			'manual/document_dir',
+			'/manual/document_dir',
 			'/manual/array',
 			'/manual/continued_event',
 			'/manual/vector'
