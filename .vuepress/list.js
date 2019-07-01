@@ -19,10 +19,8 @@ module.exports = [{
 	},
 	{
 		title: '手册',
-		children: [{
-				title: '参考手册',
-				path: 'https://www.yuque.com/zhaohua-zgi3w/overwatch-document'
-			},
+		children: [
+			'manual/document_dir',
 			'/manual/array',
 			'/manual/continued_event',
 			'/manual/vector'
