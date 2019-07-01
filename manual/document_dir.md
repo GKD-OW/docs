@@ -15,7 +15,7 @@ lang: zh-CN
 - [数学运算](documents/value-math.md)
 - [事件信息](documents/event-info.md)
 - [玩家](documents/value-player.md)
-- [比赛 / 地图 / 队伍 信息](documents/value-match-map-team.md)
+- [比赛 / 地图 / 队伍](documents/value-match-map-team.md)
 - [数组](documents/value-array.md)
 - [变量](documents/value-variable.md)
 - [常量](documents/value-constant.md)
