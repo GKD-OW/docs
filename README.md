@@ -31,7 +31,7 @@ lang: zh-CN
 
 | 名称 | 说明 |
 | --- | --- |
-| [手册](https://www.yuque.com/zhaohua-zgi3w/overwatch-document) | 由昭华整理的官方功能手册，方便快速查阅相关功能 |
+| [手册](manual/document_dir.md) | 由昭华整理的官方功能手册，方便快速查阅相关功能 |
 | [数组](manual/array.md) | 数组基本使用 |
 | [持续事件](manual/continued_event.md) | 持续事件基本使用 |
 | [矢量和向量](manual/vector.md) | 矢量向量基本使用和基本运算 |
