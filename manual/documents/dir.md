@@ -1,0 +1,31 @@
+# 守望先锋中文文档
+
+## 事件(Event)
+- [事件](event.md)
+ 
+## 值(Value)
+
+- [矢量和角度](value-vector-angle.md)
+- [效果与文本ID](value-effect-and-text-id.md)
+- [逻辑运算](value-logical-operator.md)
+- [数学运算](value-math.md)
+- [事件信息](event-info.md)
+- [玩家](value-player.md)
+- [比赛 / 地图 / 队伍 信息](value-match-map-team.md)
+- [数组](value-array.md)
+- [变量](value-variable.md)
+- [常量](value-constant.md)
+
+## 动作(Action)
+- [流程控制](action-control-flow.md)
+- [玩家](action-player.md)
+- [队伍](action-team.md)
+- [变量](action-variable.md)
+- [比赛](action-match.md)
+- [效果与文本](action-effect-text.md)
+
+## 字符串
+- [字符串](string.md)
+
+## 图标示例
+- [图标](icon.md)
