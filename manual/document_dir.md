@@ -9,7 +9,7 @@ lang: zh-CN
  
 ## 值(Value)
 
-### [矢量和角度](documents/value-vector-angle.md)
+- [矢量和角度](documents/value-vector-angle.md)
 - [效果与文本ID](documents/value-effect-and-text-id.md)
 - [逻辑运算](documents/value-logical-operator.md)
 - [数学运算](documents/value-math.md)
