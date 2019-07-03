@@ -7,7 +7,7 @@ _当比赛开始时，创建此规则的单一副本。此副本在整场比赛�
 - 由于副本会在整场比赛中保持激活，所以有时会满足条件，有时会不满足条件。当首次检查就满足条件时，则会执行行动列表。
 - 当未满足条件列表，但之后又满足时，则会尝试再次执行行动列表。
 
----
+
 
 ## 持续 - 每名玩家    ONGOING - EACH PLAYER
 
@@ -28,7 +28,7 @@ _当玩家加入比赛时，为每位玩家创建此规则的副本。此副本�
   - ![555.png](https://cdn.nlark.com/yuque/0/2019/png/353993/1558840842565-2204ebfd-a11e-47bd-ad88-08ee72445eca.png#align=left&display=inline&height=822&name=555.png&originHeight=822&originWidth=1468&size=684819&status=done&width=1468#align=left&display=inline&height=822&originHeight=822&originWidth=1468&status=done&width=1468)
 - {英雄名称}  - 本规则仅追踪和处理在指定`队伍`中使用该英雄的所有玩家所产生的事件,当条件满足时执行动作列表
 
----
+
 
 ## 玩家参与消灭    PLAYER EARNED ELIMINATION
 
@@ -48,7 +48,7 @@ _当玩家参与消灭时执行规则。每名玩家一次只能激活一个规�
   - ![555.png](https://cdn.nlark.com/yuque/0/2019/png/353993/1558840842565-2204ebfd-a11e-47bd-ad88-08ee72445eca.png#align=left&display=inline&height=822&name=555.png&originHeight=822&originWidth=1468&size=684819&status=done&width=1468#align=left&display=inline&height=822&originHeight=822&originWidth=1468&status=done&width=1468)
 - {英雄名称}  - 本规则仅追踪和处理在指定`队伍`中使用该英雄的所有玩家所产生的参与消灭事件,当条件满足时执行动作列表
 
----
+
 
 ## 玩家造成最后一击    PLAYER DEALT FINAL BLOW
 
@@ -68,7 +68,7 @@ _当玩家造成最后一击时执行规则。每名玩家一次只能激活一�
   - ![555.png](https://cdn.nlark.com/yuque/0/2019/png/353993/1558840842565-2204ebfd-a11e-47bd-ad88-08ee72445eca.png#align=left&display=inline&height=822&name=555.png&originHeight=822&originWidth=1468&size=684819&status=done&width=1468#align=left&display=inline&height=822&originHeight=822&originWidth=1468&status=done&width=1468)
 - {英雄名称}  - 本规则仅追踪和处理在指定`队伍`中使用该英雄的所有玩家所产生的造成最后一击事件,当条件满足时执行动作列表
 
----
+
 
 ## 玩家造成伤害    PLAYER DEALT DAMAGE
 
@@ -88,7 +88,7 @@ _当玩家造成伤害时执行规则。每名玩家一次只能激活一个规�
   - ![555.png](https://cdn.nlark.com/yuque/0/2019/png/353993/1558840842565-2204ebfd-a11e-47bd-ad88-08ee72445eca.png#align=left&display=inline&height=822&name=555.png&originHeight=822&originWidth=1468&size=684819&status=done&width=1468#align=left&display=inline&height=822&originHeight=822&originWidth=1468&status=done&width=1468)
 - {英雄名称}  - 本规则仅追踪和处理在指定`队伍`中使用该英雄的所有玩家所产生的造成伤害事件,当条件满足时执行动作列表
 
----
+
 
 ## 玩家受到伤害    PLAYER TOOK DAMAGE
 
@@ -108,7 +108,7 @@ _当玩家受到伤害时执行规则。每名玩家一次只能激活一个规�
   - ![555.png](https://cdn.nlark.com/yuque/0/2019/png/353993/1558840842565-2204ebfd-a11e-47bd-ad88-08ee72445eca.png#align=left&display=inline&height=822&name=555.png&originHeight=822&originWidth=1468&size=684819&status=done&width=1468#align=left&display=inline&height=822&originHeight=822&originWidth=1468&status=done&width=1468)
 - {英雄名称}  - 本规则仅追踪和处理在指定`队伍`中使用该英雄的所有玩家所产生的受到伤害事件,当条件满足时执行动作列表
 
----
+
 
 ## 玩家阵亡    PLAYER DIED
 
@@ -128,5 +128,5 @@ _当玩家阵亡时执行规则。每名玩家一次只能激活一个规则副�
   - ![555.png](https://cdn.nlark.com/yuque/0/2019/png/353993/1558840842565-2204ebfd-a11e-47bd-ad88-08ee72445eca.png#align=left&display=inline&height=822&name=555.png&originHeight=822&originWidth=1468&size=684819&status=done&width=1468#align=left&display=inline&height=822&originHeight=822&originWidth=1468&status=done&width=1468)
 - {英雄名称}  - 本规则仅追踪和处理在指定`队伍`中使用该英雄的所有玩家所产生的玩家阵亡事件,当条件满足时执行动作列表
 
----
+
 
