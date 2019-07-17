@@ -9,8 +9,6 @@ lang: zh-CN
 
 ## 教程
 
-### 目录
-
 | 名称 | 难度 | 说明 |
 | --- | --- | --- |
 | [零基础入门](tutorial/zero_based.md) | ★☆☆☆☆ | 入门教程，介绍了规则、变量的基本概念和使用 |
@@ -45,6 +43,62 @@ lang: zh-CN
 * 有一些功能的翻译并不准确，如“已重生”实际指的是“玩家是否选择英雄”。请先阅读手册。
 * 在"持续 - 全局" 事件中用循环连续创建效果可能导致部分效果创建失败，可使用条件 存活玩家数量(所有队伍)>0 来避免这种情况。
 
+## 代码编写辅助工具
+
+因为工坊支持代码转存及粘贴，所以玩家可以使用第三方工具直接编写代码，以此衍生出许多辅助工具，总结如下，需要注意的是，这些工具多为开源版本，作者可能会随时弃坑：
+
+### 代码高亮
+
+https://github.com/vicerust/owlang ：
+
+Vscode 的代码高亮、补全插件，令人疑惑的是在 Windows 中无法使用代码补全，macOS 反而没问题。
+
+https://github.com/Mike111177/Overwatch-Workshop-Syntax-Highlight ：
+
+Sublime text 的代码高亮样式
+
+### 解释器
+
+https://github.com/ItsDeltin/Overwatch-Script-To-Workshop ：
+
+C# 版本，完成度最高，对其他版本解释器的开发提供了很有价值的参考
+
+https://github.com/TrueCP6/ostw-method-library ：
+
+上一解释器的函数库
+
+https://github.com/adapap/OWScript ：
+
+Python 版本，更新比较频繁
+
+https://github.com/fredi-68/OverScript ：
+
+Python 3 版本，已经许久没更新
+
+https://github.com/Beier/Omnium ：
+
+Typescript 版本
+
+https://github.com/Groodion/Overwatch-Code ：
+
+Java 版本，甚至还有一个界面版转换工具，已经许久没更新
+
+### 可视化工具
+
+可视化工具均未有完成品，仅在此记录以待关注
+
+https://github.com/hmmhmmhm/overwatch-workshop-javascript ：
+
+https://github.com/fredi-68/OWWvisualScripting ：
+
+https://github.com/tdh8316/Owrkshop ：
+
+### 其他
+
+https://github.com/Corrade/OW-hitscan-spheres-no-raymarching ：
+
+一个不使用射线检测球体碰撞的思路
+
 ## 作品
 
 国服作品请前往[owmod.net](https://www.owmod.net)浏览或提交。
@@ -78,11 +132,13 @@ lang: zh-CN
 * 演绎 — 修改、转换或以本作品为基础进行创作。
 
 如何确定自己的行为是否属于商业目的：
+
 * 以个人身份转载一般不会存在问题（但不绝对）。
 * 转载任何内容至公众号、微博、B站、第三方网站/论坛等媒介，维护人员有权**自行认定**是否为商业目的使用。
 * 若您无法确定，请联系维护人员确认。联系方式：“OW地图工坊交流”群主或B站私信[泷涯](https://space.bilibili.com/2002598)
 
 另外：
+
 * 原作者对自己作品的任何行为，均不属于上述条件的限制范围。
 * 若您不满足上面的需求，但仍然希望使用本站内容，请联系站务组或原作者，取得单独授权。
 
