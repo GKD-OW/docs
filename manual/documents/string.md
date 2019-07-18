@@ -1,5 +1,5 @@
 |英文版本|中文版本|
-|----|----|
+|-----|-----|
 -> {0}|-> {0}
 !|！
 !!|！！
@@ -56,10 +56,13 @@ Abilities|技能
 Ability|技能
 Ability 1|技能1
 Ability 2|技能2
+Agility|敏捷
 Alert|警报
 Alive|存活
 Allies|盟友
 Ally|盟友
+Ammunition|弹药
+Angle|角度
 Attack|进攻
 Attacked|已进攻
 Attacking|正在进攻
@@ -76,6 +79,14 @@ Banned|已屏蔽
 Banning|正在屏蔽
 Best|最佳
 Better|优秀
+Bid|加注
+Bids|加注
+Block|阻挡
+Blocked|已阻挡
+Blocking|正在阻挡
+Blue|蓝色
+Bonus|奖励
+Bonuses|奖励
 Boss|首领
 Bosses|首领
 Bought|已购买
@@ -93,6 +104,7 @@ Capturing|正在夺取
 Caution|危险
 Center|中
 Challenge Accepted|接受挑战
+Charisma|魅力
 Chase|追击
 Chased|已追击
 Chasing|正在追击
@@ -100,12 +112,16 @@ Checkpoint|检查点
 Checkpoints|检查点
 Cloud|云朵
 Clouds|云朵
+Club|梅花
+Clubs|梅花
+Combo|连击
 Come Here|到这儿来
 Condition|条件
 Congratulations|恭喜
 Connect|连接
 Connected|已连接
 Connecting|正在连接
+Constitution|建筑
 Control Point|控制点
 Control Points|控制点
 Cooldown|冷却时间
@@ -149,20 +165,36 @@ Damaged|已伤害
 Damaging|正在伤害
 Danger|危险
 Dead|已死亡
+Deal|发牌
+Dealing|正在发牌
+Dealt|已发牌
+Deck|牌堆
+Decks|牌堆
 Defeat|战败
 Defend|防守
 Defended|已防守
 Defending|正在防守
+Defense|防御
 Deliver|送达
 Delivered|已送达
 Delivering|正在送达
+Depth|深度
 Destabilize|干扰
 Destabilized|已干扰
 Destabilizing|正在干扰
 Destroy|摧毁
 Destroyed|已摧毁
 Destroying|正在摧毁
+Detect|探测
+Detected|被探测
+Detecting|正在探测
+Dexterity|灵巧
+Diamond|方块
+Diamonds|方块
 Die|死亡
+Discard|弃牌
+Discarded|已弃牌
+Discarding|正在弃牌
 Disconnect|断开
 Disconnected|已断开
 Disconnecting|正在断开
@@ -178,6 +210,8 @@ Download|下载
 Downloaded|已下载
 Downloading|正在下载
 Draw|平局
+Drawing|正在抽牌
+Drawn|已抽牌
 Drop|掉落
 Dropped|已掉落
 Dropping|正在掉落
@@ -196,7 +230,11 @@ Escorted|已护送
 Escorting|正在护送
 Excellent|优秀
 Exit|离开
+Experience|经验值
 Extreme|极端
+Face|面向
+Faces|面向
+Facing|正在面向
 Failed|已失败
 Failing|即将失败
 Failure|失败
@@ -244,6 +282,9 @@ Finishing|正在结束
 Flown|已飞行
 Fly|飞行
 Flying|正在飞行
+Fold|收起
+Folded|已收起
+Folding|正在收起
 Form|表格
 Forms|表格
 Forward|前
@@ -263,15 +304,21 @@ Going|正在前往
 Good|好
 Good Luck|好运
 Goodbye|再见
+Green|绿色
 Guilty|有罪
 Hack|入侵
 Hacked|已入侵
 Hacking|正在入侵
+Hand|手牌
+Hands|手牌
 Heal|治疗
 Healed|已治疗
 Healer|治疗者
 Healers|治疗者
 Healing|正在治疗
+Heart|红桃
+Hearts|心
+Height|高度
 Hello|问候
 Help|求助
 Here|此处
@@ -282,18 +329,21 @@ Hide|隐藏
 Hiding|正在隐藏
 High Score|最高得分
 High Scores|最高得分
+Hit|击中
+Hitting|正在击中
 Hmmm|嗯
 Hostage|人质
 Hostages|人质
 Huh|哈
 Hunt|狩猎
-Hunted|已狩猎 
+Hunted|已狩猎
 Hunter|猎人
 Hunters|猎人
 Hunting|正在狩猎
 I Give Up|我放弃了
 I Tried|我尽力了
 In View|在视野中
+Income|收入
 Incoming|正在前来
 Initial|初始
 Initial Allies|初始盟友
@@ -321,6 +371,8 @@ Initial Targets|初始目标
 Initial Upgrade|初始升级
 Innocent|无罪
 Inside|内
+Intelligence|智力
+Interact|互动
 Invisible|不可见
 Item|物品
 Items|物品
@@ -332,6 +384,7 @@ Jumping|正在跳跃
 Kill|击杀
 Kills|击杀
 Killstreak|连杀
+Killstreak|连杀
 Killstreaks|连杀
 Leader|队长
 Leaders|队长
@@ -339,6 +392,8 @@ Least|最少
 Left|左
 Less|更少
 Level|等级
+Level Down|等级下降
+Level Up|等级提升
 Levels|等级
 Life|生命
 Limited|受限
@@ -346,6 +401,7 @@ Lives|生命
 Load|读取
 Loaded|已读取
 Loading|正在读取
+Location|坐标
 Lock|锁定
 Locked|已锁定
 Locking|正在锁定
@@ -364,6 +420,8 @@ Mission Failed|失败的任务
 Missions|任务
 Moderate|适中
 Money|金钱
+Monster|怪物
+Monsters|怪物
 More|更多
 Most|最多
 My Mistake|我的错
@@ -394,7 +452,7 @@ Next Players|下一批玩家
 Next Round|下一个回合
 Next Target|下一个目标
 Next Targets|下一批目标
-Next Upgrade|下一个升级 
+Next Upgrade|下一个升级
 Nice Try|表现不错
 No|否
 No Thanks|不用了
@@ -424,6 +482,8 @@ Outgoing|正在远去
 Outside|外
 Over|上方
 Overtime|加时
+Participant|参与者
+Participants|参与者
 Payload|运载目标
 Payloads|运载目标
 Phase|阶段
@@ -431,23 +491,32 @@ Phases|阶段
 Pick|选取
 Picked|已选取
 Picking|正在选取
-Player|玩家
+Pile|堆
+Piles|堆
+Play|打出
+Played|已打出
 Player|玩家
 Players|玩家
-Players|玩家
+Playing|正在打出
 Point|点
 Points|点
 Points Earned|获得分数
 Points Lost|失去分数
+Position|位置
+Power|能量
 Power-up|强化
 Power-ups|强化
 Price|价格
+Primary Fire|主要攻击模式
+Projectile|飞弹
+Projectiles|飞弹
 Protect|保护
 Protected|已保护
 Protecting|正在保护
 Purified|已净化
 Purify|净化
 Purifying|正在净化
+Purple|紫色
 Raise|复活
 Raised|已复活
 Raising|正在复活
@@ -459,23 +528,32 @@ Rank D|等级 D
 Rank E|等级 E
 Rank F|等级 F
 Rank S|等级 S
+Reach|前往
+Reached|已抵达
+Reaching|正在前往
 Ready|就绪
 Record|记录
 Records|记录
 Recover|恢复
 Recovered|已恢复
 Recovering|正在恢复
+Red|红色
 Remain|剩余
 Remaining|剩余
 Rescue|营救
-Rescued|已营救 
+Rescued|已营救
 Rescuing|正在营救
+Resource|资源
+Resources|资源
 Resurrect|重生
 Resurrected|已重生
 Resurrecting|正在重生
 Reveal|揭示
 Revealed|已揭示
 Revealing|正在揭示
+Reverse|撤销
+Reversed|已撤销
+Reversing|正在撤销
 Right|右
 Round|回合
 Round {0}|第{0}回合
@@ -490,17 +568,34 @@ Saved|已保存
 Saving|正在保存
 Score|分数
 Scores|分数
+Secondary Fire|辅助攻击模式
 Secure|保护
 Secured|已保护
 Securing|正在保护
+Select|选择
+Selected|已选择
+Selecting|正在选择
 Sell|出售
 Selling|正在出售
+Server Load|服务器负载
+Server Load Average|服务器负载平均值
+Server Load Peak|服务器负载峰值
 Sever|撕裂
 Severe|严重
 Severed|已撕裂
 Severing|正在撕裂
+Shop|商店
+Shops|商店
+Shuffle|洗牌
+Shuffled|已洗牌
+Shuffling|正在洗牌
 Sink|击沉
 Sinking|正在击沉
+Skip|跳过
+Skipped|已跳过
+Skipping|正在跳过
+Sleep|沉睡
+Sleeping|正在沉睡
 Slept|已沉睡
 Slow|慢
 Slower|较慢
@@ -510,10 +605,14 @@ Sorry|抱歉
 South|南
 Southeast|东南
 Southwest|西南
+Spade|黑桃
+Spades|黑桃
 Sparkles|火花
 Spawn|孵化
 Spawned|已孵化
 Spawning|正在孵化
+Speed|速度
+Speeds|速度
 Sphere|球体
 Spheres|球形
 Stabilize|稳定
@@ -526,10 +625,14 @@ Start|开始
 Started|已开始
 Starting|正在开始
 Status|状态
+Stay|停止
 Stay Away|走开
+Stayed|已停止
+Staying|正在停止
 Stop|阻止
 Stopped|已阻止
 Stopping|正在阻止
+Strength|力量
 Stun|昏迷
 Stunned|已昏迷
 Stunning|正在昏迷
@@ -598,15 +701,20 @@ Waiting|正在等待
 Wall|墙壁
 Walls|墙壁
 Warning|警告
+Welcome|欢迎
 Well Played|称赞
 West|西
+White|白色
+Wild|关键牌
 Win|胜利
 Winner|胜者
 Winners|胜者
 Wins|胜利
+Wisdom|感知
 Worse|较差
 Worst|最差
 Wow|哇哦
+Yellow|黄色
 Yes|是
 You|你
 You Lose|你失败了
