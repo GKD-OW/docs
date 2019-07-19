@@ -49,9 +49,14 @@ lang: zh-CN
 
 ### 代码高亮
 
-https://github.com/vicerust/owlang ：
+https://marketplace.visualstudio.com/items?itemName=vicerust.overwatch [[Github](https://github.com/vicerust/owlang)]:
 
-Vscode 的代码高亮、补全插件，令人疑惑的是在 Windows 中无法使用代码补全，macOS 反而没问题。
+
+VSCode 的代码高亮、补全插件，令人疑惑的是在 Windows 中无法使用代码补全，macOS 反而没问题。
+
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2 [[Github](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)]：
+
+VSCode 括号染色匹配插件，可以清晰标记对应的括号区间。
 
 https://github.com/Mike111177/Overwatch-Workshop-Syntax-Highlight ：
 
