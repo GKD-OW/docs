@@ -49,54 +49,29 @@ lang: zh-CN
 
 ### 代码高亮
 
-https://marketplace.visualstudio.com/items?itemName=vicerust.overwatch [[Github](https://github.com/vicerust/owlang)]:
-
-
-VSCode 的代码高亮、补全插件，令人疑惑的是在 Windows 中无法使用代码补全，macOS 反而没问题。
-
-https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2 [[Github](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)]：
-
-VSCode 括号染色匹配插件，可以清晰标记对应的括号区间。
-
-https://github.com/Mike111177/Overwatch-Workshop-Syntax-Highlight ：
-
-Sublime text 的代码高亮样式
+| 名称 | 平台 | GitHub | 说明 |
+| --- | --- | --- |
+| [owlang](https://marketplace.visualstudio.com/items?itemName=vicerust.overwatch) | VSCode | [vicerust/owlang](https://github.com/vicerust/owlang) | VSCode 的代码高亮、补全插件 |
+| [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | VSCode| [CoenraadS/Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) | 括号染色匹配插件，标记对应的括号区间 |
+| [Overwatch Workshop Syntax Highlight](https://github.com/Mike111177/Overwatch-Workshop-Syntax-Highlight) | Sublime text | [Mike111177/Overwatch-Workshop-Syntax-Highlight](https://github.com/Mike111177/Overwatch-Workshop-Syntax-Highlight) | Sublime text的代码高亮样式 |
 
 ### 解释器
 
-https://github.com/ItsDeltin/Overwatch-Script-To-Workshop ：
-
-C# 版本，完成度最高，对其他版本解释器的开发提供了很有价值的参考
-
-https://github.com/TrueCP6/ostw-method-library ：
-
-上一解释器的函数库
-
-https://github.com/adapap/OWScript ：
-
-Python 版本，更新比较频繁
-
-https://github.com/fredi-68/OverScript ：
-
-Python 3 版本，已经许久没更新
-
-https://github.com/Beier/Omnium ：
-
-Typescript 版本
-
-https://github.com/Groodion/Overwatch-Code ：
-
-Java 版本，甚至还有一个界面版转换工具，已经许久没更新
+| 语言 | GitHub | 说明 |
+| --- | --- | --- |
+| C# | (ItsDeltin/Overwatch-Script-To-Workshop)[https://github.com/ItsDeltin/Overwatch-Script-To-Workshop] | 完成度最高，对其他版本解释器的开发提供了很有价值的参考 |
+| C# | (TrueCP6/ostw-method-library)[https://github.com/TrueCP6/ostw-method-library] | 上一解释器的函数库 |
+| Python | (adapap/OWScript)[https://github.com/adapap/OWScript] | 更新比较频繁 |
+| Python3 | (fredi-68/OverScript)[https://github.com/fredi-68/OverScript] | 已经许久没更新 |
+| Typescript | (Beier/Omnium)[https://github.com/Beier/Omnium] |  |
+| Java | (Groodion/Overwatch-Code)[https://github.com/Groodion/Overwatch-Code] | 甚至还有一个界面版转换工具，已经许久没更新 |
 
 ### 可视化工具
 
 可视化工具均未有完成品，仅在此记录以待关注
 
-https://github.com/hmmhmmhm/overwatch-workshop-javascript ：
-
-https://github.com/fredi-68/OWWvisualScripting ：
-
-https://github.com/tdh8316/Owrkshop ：
+* [hmmhmmhm/overwatch-workshop-javascript](https://github.com/hmmhmmhm/overwatch-workshop-javascript)
+* [fredi-68/OWWvisualScripting](https://github.com/fredi-68/OWWvisualScripting)
 
 ### 其他
 
