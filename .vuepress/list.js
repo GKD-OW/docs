@@ -19,7 +19,7 @@ module.exports = [{
 		title: '手册',
 		children: [
 			{
-				title: '',
+				title: '命令手册(中英对照)',
 				path: '/manual/documents',
 				children: [
 					'/manual/documents/event.md',
