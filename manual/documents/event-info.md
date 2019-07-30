@@ -1,3 +1,8 @@
+---
+title: 事件信息类
+lang: zh-CN
+---
+
 # 事件信息类
 
 ## 事件玩家    EVENT PLAYER

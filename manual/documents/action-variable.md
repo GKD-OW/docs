@@ -1,3 +1,8 @@
+---
+title: 变量操作类
+lang: zh-CN
+---
+
 # 变量操作类
 
 ## 设置全局变量    SET GLOBAL VARIABLE

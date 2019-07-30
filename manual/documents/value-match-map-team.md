@@ -1,3 +1,8 @@
+---
+title: 比赛/地图/队伍
+lang: zh-CN
+---
+
 # 比赛/地图/队伍
 
 ## 正在等待玩家    IS WAITING FOR PLAYERS

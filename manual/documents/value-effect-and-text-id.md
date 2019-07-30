@@ -1,3 +1,8 @@
+---
+title: ID类
+lang: zh-CN
+---
+
 # ID类
 
 
