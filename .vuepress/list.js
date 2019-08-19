@@ -26,6 +26,7 @@ module.exports = [{
 					{
 						title: '值(Value)',
 						children: [
+							"/manual/documents/value-vector-angle.md",
 							"/manual/documents/value-effect-and-text-id.md",
 							"/manual/documents/value-logical-operator.md",
 							"/manual/documents/value-math.md",
