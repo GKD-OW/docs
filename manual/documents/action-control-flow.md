@@ -1,5 +1,5 @@
 ---
-title: 流程控制类
+title: 流程控制
 lang: zh-CN
 ---
 
