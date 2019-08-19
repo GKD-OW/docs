@@ -1,9 +1,9 @@
 ---
-title: 变量类
+title: 变量
 lang: zh-CN
 ---
 
-# 变量类
+# 变量
 
 
 
