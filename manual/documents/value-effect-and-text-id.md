@@ -1,9 +1,9 @@
 ---
-title: ID类
+title: 效果与文本ID
 lang: zh-CN
 ---
 
-# ID类
+# 效果与文本ID
 
 
 
