@@ -1,9 +1,9 @@
 ---
-title: 常量类
+title: 常量
 lang: zh-CN
 ---
 
-# 常量类
+# 常量
 
 
 
