@@ -27,6 +27,7 @@ module.exports = {
     editLinkText: '在 GitHub 上编辑此页',
     sidebarDepth: 1,
     lastUpdated: '上次更新',
+    searchMaxSuggestions: 10,
     nav: [{
       text: '首页',
       link: '/'
