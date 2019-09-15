@@ -46,7 +46,9 @@ lang: zh-CN
 * 将「事件玩家」改成「主机玩家」
 
 ![demo](http://http.cdn.sylibs.com/workshop/docs/use_styler/be971962ly1g6yc7xpmdvj20fw06jgm9.jpg)
+
 ![demo](http://http.cdn.sylibs.com/workshop/docs/use_styler/be971962ly1g6ycljc63rj20ex07jain.jpg)
+
 ![demo](http://http.cdn.sylibs.com/workshop/docs/use_styler/be971962ly1g6ycna5pnxj20g50eq14n.jpg)
 
 ## 生成器
