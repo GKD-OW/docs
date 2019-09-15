@@ -13,7 +13,8 @@ module.exports = [{
 			'/tutorial/2d',
 			'/tutorial/aiming_and_perspective',
 			'/tutorial/observer',
-			'/tutorial/core'
+			'/tutorial/core',
+			'/tutorial/use_styler'
 		]
 	}, {
 		title: '手册',
