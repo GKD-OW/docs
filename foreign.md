@@ -6,7 +6,7 @@ pageClass: page-works
 
 # 外服作品收集
 
-外服代码收集网站：[overwatchmodding.com](https://overwatchmodding.com/) [workshop.elohell.gg](https://workshop.elohell.gg/) [overwatchforge.com](https://overwatchforge.com/)
+外服代码收集网站：[overwatchmodding.com](https://overwatchmodding.com/) [workshop.elohell.gg](https://workshop.elohell.gg/) [overwatchforge.com](https://overwatchforge.com/) [avastips.com/overwatch/](https://avastips.com/overwatch/)
 
 ## 竞技类
 
