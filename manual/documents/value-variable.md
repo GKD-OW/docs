@@ -7,7 +7,7 @@ lang: zh-CN
 
 
 
-## 全局变量    GLOBAL VARIABLE
+## 全局变量    GLOBAL VARIABLE
 
 _一个全局变量的当前值,全局变量即属于游戏本身的变量._
 
@@ -15,7 +15,7 @@ _一个全局变量的当前值,全局变量即属于游戏本身的变量._
 
 
 
-## 玩家变量    PLAYER VARIABLE
+## 玩家变量    PLAYER VARIABLE
 
 _一个玩家变量当前的值,玩家变量即属于一个特定玩家的变量._
 

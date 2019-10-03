@@ -5,7 +5,7 @@ lang: zh-CN
 
 # 变量
 
-## 设置全局变量    SET GLOBAL VARIABLE
+## 设置全局变量    SET GLOBAL VARIABLE
 
 _将一个值存储为一个全局变量,全局变量即属于游戏本身的变量._
 
@@ -14,7 +14,7 @@ _将一个值存储为一个全局变量,全局变量即属于游戏本身的变
 
 
 
-## 设置玩家变量    SET PLAYER VARIABLE
+## 设置玩家变量    SET PLAYER VARIABLE
 
 _将一个值存储为一个玩家变量,玩家变量即属于一个特定玩家的变量._
 
@@ -25,7 +25,7 @@ _将一个值存储为一个玩家变量,玩家变量即属于一个特定玩家
 
 
 
-## 修改全局变量    MODIFY GLOBAL VARIABLE
+## 修改全局变量    MODIFY GLOBAL VARIABLE
 
 _修改一个全局变量的值,全局变量即属于游戏本身的变量._
 
@@ -35,7 +35,7 @@ _修改一个全局变量的值,全局变量即属于游戏本身的变量._
 
 
 
-## 修改玩家变量    MODIFY PLAYER VARIABLE
+## 修改玩家变量    MODIFY PLAYER VARIABLE
 _修改一个玩家变量的值,玩家变量即属于一个特定玩家的变量._
 
 - `玩家`此玩家的变量将被修改.如果有多个玩家,则每个玩家的变量都被设置.
@@ -45,7 +45,7 @@ _修改一个玩家变量的值,玩家变量即属于一个特定玩家的变量
 
 
 
-## 在索引处设置全局变量    SET GLOBAL VARIABLE AT INDEX
+## 在索引处设置全局变量    SET GLOBAL VARIABLE AT INDEX
 
 _为一个全局变量寻找或创建一个数组,然后将一个值储存至指定的索引处.全局变量即属于游戏本身的变量._
 
@@ -55,7 +55,7 @@ _为一个全局变量寻找或创建一个数组,然后将一个值储存至指
 
 
 
-## 在索引处设置玩家变量    SET PLAYER VARIABLE AT INDEX
+## 在索引处设置玩家变量    SET PLAYER VARIABLE AT INDEX
 
 _为一个玩家变量寻找或创建一个数组,然后将一个值储存至指定的索引处.玩家变量即属于一个特定玩家的变量._
 
@@ -66,7 +66,7 @@ _为一个玩家变量寻找或创建一个数组,然后将一个值储存至指
 
 
 
-## 在索引处修改全局变量    MODIFY GLOBAL VARIABLE AT INDEX
+## 在索引处修改全局变量    MODIFY GLOBAL VARIABLE AT INDEX
 
 _修改索引处一个全局变量的值,全局变量即属于游戏本身的变量._
 
@@ -77,7 +77,7 @@ _修改索引处一个全局变量的值,全局变量即属于游戏本身的变
 
 
 
-## 在索引处修改玩家变量    MODIFY PLAYER VARIABLE AT INDEX
+## 在索引处修改玩家变量    MODIFY PLAYER VARIABLE AT INDEX
 _修改索引处一个玩家变量的值,玩家变量即属于一个特定玩家的变量._
 
 - `玩家`此玩家的变量将被修改.如果有多个玩家,则每个玩家的变量都被设置.
@@ -88,7 +88,7 @@ _修改索引处一个玩家变量的值,玩家变量即属于一个特定玩家
 
 
 
-## 持续追踪全局变量    CHASE GLOBAL VARIABLE OVER TIME
+## 持续追踪全局变量    CHASE GLOBAL VARIABLE OVER TIME
 
 _逐渐改变一个全局变量的值,全局变量即属于游戏本身的变量._
 
@@ -99,9 +99,9 @@ _逐渐改变一个全局变量的值,全局变量即属于游戏本身的变量
 
 
 
-## 持续追踪玩家变量    CHASE PLAYER VARIABLE OVER TIME
+## 持续追踪玩家变量    CHASE PLAYER VARIABLE OVER TIME
 
-_逐步改变一个玩家变量的值,玩家变量即属于一个特定玩家的变量._<br /> 
+_逐步改变一个玩家变量的值,玩家变量即属于一个特定玩家的变量._<br /> 
 
 - `玩家`此玩家的变量将被逐渐改变.如果有多个玩家,则每个玩家的变量都各自被改变
 - `变量`指定将要改变的玩家变量.
@@ -111,7 +111,7 @@ _逐步改变一个玩家变量的值,玩家变量即属于一个特定玩家的
 
 
 
-## 追踪全局变量频率    CHASE GLOBAL VARIABLE AT RATE
+## 追踪全局变量频率    CHASE GLOBAL VARIABLE AT RATE
 
 _以指定的速率逐步改变一个全局变量的值,全局变量即属于游戏本身的变量._
 
@@ -122,7 +122,7 @@ _以指定的速率逐步改变一个全局变量的值,全局变量即属于游
 
 
 
-## 追踪玩家变量频率    CHASE PLAYER VARIABLE AT RATE
+## 追踪玩家变量频率    CHASE PLAYER VARIABLE AT RATE
 
 _以指定的速率逐步改变一个玩家变量的值,玩家变量即属于一个特定玩家的变量._
 
@@ -134,7 +134,7 @@ _以指定的速率逐步改变一个玩家变量的值,玩家变量即属于一
 
 
 
-## 停止追踪全局变量    STOP CHASING GLOBAL VARIABLE
+## 停止追踪全局变量    STOP CHASING GLOBAL VARIABLE
 
 _停止追踪一个全局变量,并使其保持为当前值._
 
@@ -142,7 +142,7 @@ _停止追踪一个全局变量,并使其保持为当前值._
 
 
 
-## 停止追踪玩家变量    STOP CHASING PLAYER VARIABLE
+## 停止追踪玩家变量    STOP CHASING PLAYER VARIABLE
 
 _停止追踪一个玩家变量,并使其保持为当前值._
 
