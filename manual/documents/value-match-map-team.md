@@ -5,49 +5,61 @@ lang: zh-CN
 
 # 比赛 / 地图 / 队伍
  
-## 正在等待玩家    IS WAITING FOR PLAYERS
+## 正在等待玩家    Is Waiting For Players
 
 _此比赛是否正在等待玩家加入._
 
 
 
-## 正在设置    IS IN SETUP
+## 正在设置    Is In Setup
 
 _此比赛是否正在准备阶段._
 
 
 
-## 正在集结英雄    IS ASSEMBLING HEROES
+## 正在集结英雄    Is Assembling Heroes
 
 _此比赛是否正在集结英雄阶段._
 
 
 
-## 游戏正在进行中    IS GAME IN PROGRESS
+## 游戏正在进行中    Is Game In Progress
 
 _此比赛是否正在主要阶段可以进行战斗并获得分数的阶段)._
 
 
 
-## 比赛回合    MATCH ROUND
+## 地图    Map
+
+_一个地图常量._
+
+
+
+## 当前地图    Current Map
+
+_自定义游戏中当前使用的地图._
+
+
+
+## 比赛回合    Match Round
 
 _比赛当前的回合数,从1开始计数._
 
 
 
-## 比赛时间    MATCH TIME
+## 比赛时间    Match Time
 
 _当前游戏模式阶段剩余的时间,以秒为单位._
 
 
 
-## 比赛结束    IS MATCH COMPLETE
+## 比赛结束    Is Match Complete
 
 _此比赛是否已经结束._
 
 
 
-## 此位置的玩家    PLAYERS IN SLOT
+## 此位置的玩家    Players In Slot
 
 _游戏的指定位置编号处的玩家或玩家数组._
 
@@ -56,7 +68,7 @@ _游戏的指定位置编号处的玩家或玩家数组._
 
 
 
-## 正在使用英雄    IS HERO BEING PLAYED
+## 正在使用英雄    Is Hero Being Played
 
 _指定英雄是否正在使用(可以限定在队伍中或游戏中)._
 
@@ -65,7 +77,7 @@ _指定英雄是否正在使用(可以限定在队伍中或游戏中)._
 
 
 
-## 选择英雄的玩家    PLAYERS ON HERO
+## 选择英雄的玩家    Players On Hero
 
 _此数组*中是一支队伍或本场比赛中正在使用指定英雄的玩家._
 
@@ -74,13 +86,13 @@ _此数组*中是一支队伍或本场比赛中正在使用指定英雄的玩家
 
 
 
-## 总计消耗时间    TOTAL TIME ELAPSED
+## 总计消耗时间    Total Time Elapsed
 
 _该游戏副本创建后已经过去的总时间(包括准备时间和攻防转换时间),以秒为单位._
 
 
 
-## 玩家数量    NUMBER OF PLAYERS
+## 玩家数量    Number Of Players
 
 _队伍或比赛中的玩家数量._
 
@@ -88,7 +100,7 @@ _队伍或比赛中的玩家数量._
 
 
 
-## 英雄数量    NUMBER OF HEROES
+## 英雄数量    Number Of Heroes
 
 _在一支队伍或此比赛中使用指定英雄的数量._
 
@@ -97,7 +109,7 @@ _在一支队伍或此比赛中使用指定英雄的数量._
 
 
 
-## 存活玩家数量    NUMBER OF LIVING PLAYERS
+## 存活玩家数量    Number Of Living Players
 
 _队伍或比赛中存活的玩家数量._<br />_
 
@@ -105,7 +117,7 @@ _队伍或比赛中存活的玩家数量._<br />_
 
 
 
-## 死亡玩家数量    NUMBER OF DEAD PLAYERS
+## 死亡玩家数量    Number Of Dead Players
 
 _队伍或比赛中死亡的玩家数量._
 
@@ -113,7 +125,7 @@ _队伍或比赛中死亡的玩家数量._
 
 
 
-## 所有存活玩家    ALL LIVING PLAYERS
+## 所有存活玩家    All Living Players
 
 _此数组中包括一支队伍或整个比赛中所有存活的玩家._
 
@@ -121,7 +133,7 @@ _此数组中包括一支队伍或整个比赛中所有存活的玩家._
 
 
 
-## 所有死亡玩家    ALL DEAD PLAYERS
+## 所有死亡玩家    All Dead Players
 
 _此数组中包括一支队伍或整个比赛中所有已死亡的玩家._
 
@@ -129,7 +141,7 @@ _此数组中包括一支队伍或整个比赛中所有已死亡的玩家._
 
 
 
-## 所有玩家    ALL PLAYERS
+## 所有玩家    All Players
 
 _此数组中包括一支队伍或整个比赛中所有的玩家._
 
@@ -137,7 +149,7 @@ _此数组中包括一支队伍或整个比赛中所有的玩家._
 
 
 
-## 所有目标点内玩家    ALL PLAYERS ON OBJECTIVE
+## 所有目标点内玩家    All Players On Objective
 
 _此数组中包括所有在运载目标或控制点上的玩家(可以是一支队伍中的,也可以是整个比赛中的)._
 
@@ -145,7 +157,7 @@ _此数组中包括所有在运载目标或控制点上的玩家(可以是一支
 
 
 
-## 所有目标点外玩家    ALL PLAYERS NOT ON OBJECTIVE
+## 所有目标点外玩家    All Players Not On Objective
 
 _此数组中包括所有不在运载目标或控制点上的玩家(可以是一支队伍中的,也可以是整个比赛中的)._
 
@@ -153,7 +165,7 @@ _此数组中包括所有不在运载目标或控制点上的玩家(可以是一
 
 
 
-## 携带旗帜的玩家    PLAYER CARRYING FLAG
+## 携带旗帜的玩家    Player Carrying Flag
 
 _在勇夺锦旗模式中正在携带指定队伍旗帜的玩家.如果没有玩家正在携带旗帜,则返回值为空._
 
@@ -161,7 +173,7 @@ _在勇夺锦旗模式中正在携带指定队伍旗帜的玩家.如果没有玩
 
 
 
-## 旗帜位置    FLAG POSITION
+## 旗帜位置    Flag Position
 
 _在勇夺锦旗模式中指定队伍的位置._
 
@@ -169,7 +181,7 @@ _在勇夺锦旗模式中指定队伍的位置._
 
 
 
-## 旗帜是否在基地中    IS FLAG AT BASE
+## 旗帜是否在基地中    Is Flag At Base
 
 _在勇夺锦旗模式下,指定队伍的旗帜是否在其基地内._
 
@@ -177,7 +189,7 @@ _在勇夺锦旗模式下,指定队伍的旗帜是否在其基地内._
 
 
 
-## 是否有人携带旗帜    IS FLAG BEING CARRIED
+## 是否有人携带旗帜    Is Flag Being Carried
 
 ~~_在勇夺锦旗模式下,指定队伍的旗帜是否在其基地内._~~<br />检测指定队伍的旗帜是否被敌对队伍的玩家所携带，如果没有则返回空。*
 
@@ -185,13 +197,13 @@ _在勇夺锦旗模式下,指定队伍的旗帜是否在其基地内._
 
 
 
-## 在夺旗模式中开始绝杀局    IS CTF MODE IN SUDDEN DEATH
+## 在夺旗模式中开始绝杀局    Is Ctf Mode In Sudden Death
 
 _当前勇夺锦旗游戏是否处于绝杀局状态._
 
 
 
-## 最近的可行走位置    NEAREST WALKABLE POSITION
+## 最近的可行走位置    Nearest Walkable Position
 
 _与指定位置最接近的、可以站立且能够从一个重生点到达的位置._
 
@@ -199,7 +211,7 @@ _与指定位置最接近的、可以站立且能够从一个重生点到达的�
 
 
 
-## 距离最近的玩家    CLOSEST PLAYER TO
+## 距离最近的玩家    Closest Player To
 
 _距离一个位置最近的玩家,可以选择是否限制所在队伍._
 
@@ -208,7 +220,7 @@ _距离一个位置最近的玩家,可以选择是否限制所在队伍._
 
 
 
-## 距离最远的玩家    FARTHEST PLAYER FROM
+## 距离最远的玩家    Farthest Player From
 
 _距离一个位置最远的玩家,可以选择是否限制所在队伍._
 
@@ -219,7 +231,7 @@ _距离一个位置最远的玩家,可以选择是否限制所在队伍._
 
 
 
-## 实体存在    ENTITY EXISTS
+## 实体存在    Entity Exists
 
 _指定玩家、图标实体或效果实体是否存在.可以用来查看一个玩家是否已经离开比赛,或一个实体是否已被消除._
 
@@ -227,38 +239,38 @@ _指定玩家、图标实体或效果实体是否存在.可以用来查看一个
 
 
 
-## 占领要点模式占领点解锁    IS CONTROL MODE POINT LOCKED
+## 占领要点模式占领点解锁    Is Control Mode Point Locked
 
 _占领要点模式中占领点是否解锁._
 
 
 
-## 占领要点模式得分百分比    CONTROL MODE SCORING PERCENTAGE
+## 占领要点模式得分百分比    Control Mode Scoring Percentage
 _指定队伍在占领要点模式中的得分百分比._
 
 - `百分比`:获取此队伍的得分百分比.
 
 
 
-## 占领要点模式正在得分的队伍    CONTROL MODE SCORING TEAM
+## 占领要点模式正在得分的队伍    Control Mode Scoring Team
 
 _该队伍正在占领要点模式中积累得分百分比.如果双方队伍都没有在积累得分,则结果为"全部"_<br />[<br />]()
 
 
 
-## 运载目标位置    PAYLOAD POSITION
+## 运载目标位置    Payload Position
 
 _已激活的运载目标在地图中的位置._
 
 
 
-## 运载目标进度百分比    PAYLOAD PROGRESS PERCENTAGE
+## 运载目标进度百分比    Payload Progress Percentage
 
 _已激活的运载目标前往目标地的当前进度(以百分比表示)._
 
 
 
-## 目标位置    OBJECTIVE POSITION
+## 目标位置    Objective Position
 
 _特定目标点(控制点、运载目标检查点、运载目标目的地)在地图中的位置._
 
@@ -266,7 +278,7 @@ _特定目标点(控制点、运载目标检查点、运载目标目的地)在�
 
 
 
-## 目标是否完成    IS OBJECTIVE COMPLETE
+## 目标是否完成    Is Objective Complete
 
 _指定目标是否已经完成.如果游戏模式不是攻防作战、护送、攻击/护送,则结果为假"._
 
@@ -274,7 +286,7 @@ _指定目标是否已经完成.如果游戏模式不是攻防作战、护送、
 
 
 
-## 目标点上玩家数量    NUMBER OF PLAYERS ON OBJECTIVE
+## 目标点上玩家数量    Number Of Players On Objective
 
 _在运载目标或控制点上的玩家数量(可以是一支队伍中的,也可以是整个比赛中的)._
 
@@ -284,19 +296,19 @@ _在运载目标或控制点上的玩家数量(可以是一支队伍中的,也�
 
 
 
-## 目标点占领百分比    POINT CAPTURE PERCENTAGE
+## 目标点占领百分比    Point Capture Percentage
 
 _已激活的控制点当前的占领进度(以百分比表示)._
 
 
 
-## 对象索引    OBJECTIVE INDEX
+## 对象索引    Objective Index
 
 _当前激活的控制点、运载目标检查点或运载目标目的地(0,1或2).在攻防作战、攻击/护送及占领要点模式中生效._
 
 
 
-## 已重生    HAS SPAWNED
+## 已重生    Has Spawned
 
 _一个实体是否存在于地图中.如果玩家尚未选择英雄,则返回结果为"假"_
 
@@ -304,13 +316,13 @@ _一个实体是否存在于地图中.如果玩家尚未选择英雄,则返回�
 
 
 
-## 处于回合之间    IS BETWEEN ROUNDS
+## 处于回合之间    Is Between Rounds
 
 _此比赛是否正在两个回合之间._
 
 
 
-## 团队得分    TEAM SCORE
+## 团队得分    Team Score
 
 _指定队伍当前的得分.在自由混战模式中结果为0._
 
@@ -318,7 +330,7 @@ _指定队伍当前的得分.在自由混战模式中结果为0._
 
 
 
-## 对方队伍    OPPOSITE TEAM OF
+## 对方队伍    Opposite Team Of
 
 _指定队伍的对方队伍._
 
@@ -326,7 +338,7 @@ _指定队伍的对方队伍._
 
 
 
-## (作为防守队伍)*正在防守    IS TEAM ON DEFENSE
+## (作为防守队伍)*正在防守    Is Team On Defense
 
 _指定队伍是否是防守方.如果游戏模式不是攻防作战、护送、攻击/护送,则结果为假"._
 
@@ -334,7 +346,7 @@ _指定队伍是否是防守方.如果游戏模式不是攻防作战、护送、
 
 
 
-## 作为进攻队伍    IS TEAM ON OFFENSE
+## 作为进攻队伍    Is Team On Offense
 
 _指定队伍是否是进攻方.如果游戏模式不是攻防作战、护送、或攻击/护送,则结果为"假"._
 
