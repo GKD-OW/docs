@@ -52,7 +52,6 @@ lang: zh-CN
 | 名称 | 平台 | GitHub | 说明 |
 | --- | --- | --- | --- |
 | [owlang](https://marketplace.visualstudio.com/items?itemName=vicerust.overwatch) | VSCode | [vicerust/owlang](https://github.com/vicerust/owlang) | VSCode 的代码高亮、补全插件 |
-| [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | VSCode| [CoenraadS/Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) | 括号染色匹配插件，标记对应的括号区间 |
 | [Overwatch Workshop Syntax Highlight](https://github.com/Mike111177/Overwatch-Workshop-Syntax-Highlight) | Sublime text | [Mike111177/Overwatch-Workshop-Syntax-Highlight](https://github.com/Mike111177/Overwatch-Workshop-Syntax-Highlight) | Sublime text的代码高亮样式 |
 
 ### 解释器
@@ -61,9 +60,11 @@ lang: zh-CN
 | --- | --- | --- |
 | C# | [ItsDeltin/Overwatch-Script-To-Workshop](https://github.com/ItsDeltin/Overwatch-Script-To-Workshop) | 完成度最高，对其他版本解释器的开发提供了很有价值的参考 |
 | C# | [TrueCP6/ostw-method-library](https://github.com/TrueCP6/ostw-method-library) | 上一解释器的函数库 |
-| Python | [adapap/OWScript](https://github.com/adapap/OWScript) | 更新比较频繁 |
-| Python3 | [fredi-68/OverScript](https://github.com/fredi-68/OverScript) | 已经许久没更新 |
-| Typescript | [Beier/Omnium](https://github.com/Beier/Omnium) |  |
+| Python | [Zezombye/overpy](https://github.com/Zezombye/overpy) | 看上去很强大 |
+| Python | [adapap/OWScript](https://github.com/adapap/OWScript) | 已经许久没更新 |
+| Python | [fredi-68/OverScript](https://github.com/fredi-68/OverScript) | 已经许久没更新 |
+| Typescript | [GKD-OW/OverTS](GKD-OW/OverTS) | 使用方式[见此](https://github.com/GKD-OW/OverTS-Template) |
+| Typescript | [Beier/Omnium](https://github.com/Beier/Omnium) | 已经许久没更新 |
 | Java | [Groodion/Overwatch-Code](https://github.com/Groodion/Overwatch-Code) | 甚至还有一个界面版转换工具，已经许久没更新 |
 
 ### 可视化工具
