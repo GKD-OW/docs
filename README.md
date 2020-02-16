@@ -63,7 +63,7 @@ lang: zh-CN
 | Python | [Zezombye/overpy](https://github.com/Zezombye/overpy) | 看上去很强大 |
 | Python | [adapap/OWScript](https://github.com/adapap/OWScript) | 已经许久没更新 |
 | Python | [fredi-68/OverScript](https://github.com/fredi-68/OverScript) | 已经许久没更新 |
-| Typescript | [GKD-OW/OverTS](GKD-OW/OverTS) | 使用方式[见此](https://github.com/GKD-OW/OverTS-Template) |
+| Typescript | [GKD-OW/OverTS](https://github.com/GKD-OW/OverTS) | 使用方式[见此](https://github.com/GKD-OW/OverTS-Template) |
 | Typescript | [Beier/Omnium](https://github.com/Beier/Omnium) | 已经许久没更新 |
 | Java | [Groodion/Overwatch-Code](https://github.com/Groodion/Overwatch-Code) | 甚至还有一个界面版转换工具，已经许久没更新 |
 
