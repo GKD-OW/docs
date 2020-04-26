@@ -9,7 +9,7 @@ main() {
 
 	github_repo="GKD-OW/docs"
 	github_branch="gh-pages"
-	
+
 	cd $TRAVIS_BUILD_DIR
 	mkdir -p build/www
 

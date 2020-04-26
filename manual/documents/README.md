@@ -2,12 +2,16 @@
 title: 命令手册(中英对照)
 lang: zh-CN
 ---
- # 命令手册(中英对照)
 
-## 事件(Event)
+# 命令手册(中英对照)
+
+
+## 事件 (Event)
+
 - [事件](event.md)
- 
-## 值(Value)
+
+
+## 值 (Value)
 
 - [矢量和角度](value-vector-angle.md)
 - [效果与文本ID](value-effect-and-text-id.md)
@@ -20,7 +24,9 @@ lang: zh-CN
 - [变量](value-variable.md)
 - [常量](value-constant.md)
 
-## 动作(Action)
+
+## 动作 (Action)
+
 - [流程控制](action-control-flow.md)
 - [玩家](action-player.md)
 - [队伍](action-team.md)
@@ -28,16 +34,22 @@ lang: zh-CN
 - [比赛](action-match.md)
 - [效果与文本](action-effect-text.md)
 
-## 字符串(String)
+
+## 字符串 (String)
+
 - [字符串](string.md)
 
-## 效果与音效(Effect And Sound)
+
+## 效果与音效 (Effect And Sound)
+
 - [效果与音效](https://www.yuque.com/zhaohua-zgi3w/overwatch-document/tykhqq)
 
-## 图标示例(Icon)
+
+## 图标示例 (Icon)
+
 - [图标](icon.md)
 
- 
+
 ## 贡献者
 - [贡献者](contributor.md)
-  
+
