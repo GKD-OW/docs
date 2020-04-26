@@ -75,7 +75,7 @@ lang: zh-CN
 
 ### 其他
 
-* [一个不使用射线检测球体碰撞的思路](https://github.com/Corrade/OW-hitscan-spheres-no-raymarching)
+* [一个不使用射线检测球体碰撞的思路](https://github.com/Corrade/OW-workshop/tree/master/hitscan_spheres)
 
 ## 作品
 
