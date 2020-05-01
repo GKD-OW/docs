@@ -1,2 +1,4 @@
 /node_modules
-/build
+/buildyarn.lock
+package-lock.json
+yarn.lock
