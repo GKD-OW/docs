@@ -12,21 +12,25 @@ lang: zh-CN
 
 
 ## 箭头:向下    Arrow:Down
+
  ![ebVkS1.png](https://s2.ax1x.com/2019/08/09/ebVkS1.png)
 
 
 
 ## 箭头:向左    Arrow:Left
+
 ![ebVVOK.png](https://s2.ax1x.com/2019/08/09/ebVVOK.png)
 
 
 
 ## 箭头:向右    Arrow:Right
+
 ![ebVAQx.png](https://s2.ax1x.com/2019/08/09/ebVAQx.png)
 
 
 
 ## 箭头:向上    Arrow:Up
+
 ![ebVEy6.png](https://s2.ax1x.com/2019/08/09/ebVEy6.png)
 
 
@@ -40,7 +44,7 @@ lang: zh-CN
 ## 箭矢    Bolt
 
 ![ebVeeO.png](https://s2.ax1x.com/2019/08/09/ebVeeO.png)
- <br />(没弄错,暴雪的翻译估计没看图标长啥样)
+ (没弄错,暴雪的翻译估计没看图标长啥样)
 
 
 
@@ -120,7 +124,7 @@ lang: zh-CN
 ## 满月    Moon
 
 ![ebVdYj.png](https://s2.ax1x.com/2019/08/09/ebVdYj.png)
- <br />(没弄错,暴雪的翻译估计没有看图标长啥样)
+ (没弄错,暴雪的翻译估计没有看图标长啥样)
 
 
 
@@ -221,6 +225,7 @@ lang: zh-CN
 
 
 ## X    /Eks/
+
 ![ebZSjP.png](https://s2.ax1x.com/2019/08/09/ebZSjP.png)
 
 
