@@ -31,7 +31,7 @@ module.exports = [{
 							"/manual/documents/value-effect-and-text-id.md",
 							"/manual/documents/value-logical-operator.md",
 							"/manual/documents/value-math.md",
-							"/manual/documents/event-info.md",
+							"/manual/documents/value-event-info.md",
 							"/manual/documents/value-player.md",
 							"/manual/documents/value-match-map-team.md",
 							"/manual/documents/value-array.md",
