@@ -18,7 +18,7 @@ lang: zh-CN
 - [逻辑运算](value-logical-operator.md)
 - [数学运算](value-math.md)
 - [事件信息](event-info.md)
-- [玩家](value-player.md)
+- [玩家信息](value-player.md)
 - [比赛 / 地图 / 队伍](value-match-map-team.md)
 - [数组](value-array.md)
 - [变量](value-variable.md)
