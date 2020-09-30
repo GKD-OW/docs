@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>地图工坊</title>
+	<meta name="description" content="地图工坊">
+	<link rel="stylesheet" href="/assets/css/0.styles.9ef7eb91.css">
+	<script>
+	// 旧链接跳转
+	[
+		['/manual/observer.html', '/tutorial/observer.html'],
+		['/manual/core.html', '/tutorial/core.html'],
+		['/works/foregin.html', '/foregin.html'],
+		['/works/', 'https://www.owmod.net']
+	].forEach(function(it) {
+		if (window.location.pathname === it[0]) {
+			window.location.href = it[1];
+		}
+	});
+	[
+		['/demo', '/tutorial']
+	].forEach(function(it) {
+		if (window.location.pathname.indexOf(it[0]) === 0) {
+			window.location.href = window.location.pathname.replace(it[0], it[1]);
+		}
+	});
+	</script>
+</head>
+<body>
+	<div id="app" data-server-rendered="true">
+		<div class="theme-container">
+			<div class="theme-default-content">
+				<h1>404</h1>
+				<blockquote>我们没有找到您需要访问的内容</blockquote> <a href="/" class="router-link-active">返回主页</a>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
