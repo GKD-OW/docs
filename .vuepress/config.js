@@ -24,24 +24,19 @@ module.exports = {
     repo: "GKD-OW/docs",
     editLinks: true,
     lang: 'zh-CN',
-    editLinkText: '在 GitHub 上编辑此页',
+    editLinkText: '在 GitHub 上编辑',
     sidebarDepth: 1,
     lastUpdated: '上次更新',
     searchMaxSuggestions: 10,
     nav: [{
-      text: '首页',
+      text: '文档',
       link: '/'
     }, {
+      text: '熔火工坊',
+      link: 'https://www.owmod.net/'
+    }, {
       text: 'QQ群',
-      items: [{
-          text: '交流群①',
-          link: 'https://jq.qq.com/?_wv=1027&k=5J2QSeu'
-        },
-        {
-          text: '交流群②',
-          link: 'https://jq.qq.com/?_wv=1027&k=5uVyEyn'
-        }
-      ]
+      link: 'https://jq.qq.com/?_wv=1027&k=5J2QSeu'
     }],
     sidebar: require('./list')
   }

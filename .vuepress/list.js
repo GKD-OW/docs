@@ -63,6 +63,9 @@ module.exports = [{
 			'/manual/vector'
 		]
 	}, {
+		title: '工具',
+		path: 'https://tools.owmod.net/'
+	}, {
 		title: '国服作品',
 		path: 'https://www.owmod.net/'
 	},
