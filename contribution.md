@@ -18,7 +18,7 @@ lang: zh-CN
 * 您可以在群内联系管理人员
 * 您还可以尝试[学习如何使用Git](https://blog.sylingd.com/archives/346.html)
 
-当仓库内容更新后，一般网站会在五分钟内更新。您可以[查看Travis-CI构建状态](https://travis-ci.org/GKD-OW/docs)
+当仓库内容更新后，一般网站会在五分钟内更新。您可以[查看构建状态](https://github.com/GKD-OW/docs/actions)
 
 ## 插入图片
 

@@ -9,7 +9,7 @@ lang: zh-CN
 
 本地矢量即原点位于玩家位置，玩家面对方向为Z轴正方向的坐标系。如图所示：
 
-![1.png](http://http.cdn.sylibs.com/workshop/docs/manual_vector.png)
+![1.png](https://p.pstatp.com/origin/pgc-image/f56f5722028940a185a8373bd6d82dec)
 
 在这张图中，Z轴正方向为玩家面对的方向。X轴正方向为玩家左侧。Y轴正方向为玩家上方。例如：
 

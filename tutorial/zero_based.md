@@ -137,7 +137,7 @@ lang: zh-CN
 
 最终的规则如图所示：
 
-![1](http://http.cdn.sylibs.com/workshop/docs/demo_zero_based_1.jpg)
+![1](https://p.pstatp.com/origin/pgc-image/54e937dadac34ac399e973595b58bd09)
 
 ### 加分
 
@@ -158,7 +158,7 @@ lang: zh-CN
 
 最终的规则如图所示：
 
-![2](http://http.cdn.sylibs.com/workshop/docs/demo_zero_based_2.jpg)
+![2](https://p.pstatp.com/origin/pgc-image/3d566048a2b54623b2c77965be65e074)
 
 ### 随机传火
 
@@ -177,7 +177,7 @@ lang: zh-CN
 
 最终规则如下：
 
-![3](http://http.cdn.sylibs.com/workshop/docs/demo_zero_based_3.jpg)
+![3](https://p.pstatp.com/origin/pgc-image/e8424aedc6a24f14bfe54f9668b0a4e2)
 
 ### 修复问题：死亡掉火
 
@@ -193,7 +193,7 @@ lang: zh-CN
 
 最终规则如下：
 
-![4](http://http.cdn.sylibs.com/workshop/docs/demo_zero_based_4.jpg)
+![4](https://p.pstatp.com/origin/pgc-image/166fea58782b41bfa2e95dbe3d469dee)
 
 ### 为什么要使用变量
 

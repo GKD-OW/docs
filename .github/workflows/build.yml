@@ -1,0 +1,34 @@
+name: build
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x]
+    steps:
+    - uses: actions/checkout@v2
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+    - name: Install Yarn
+      run: npm i -g yarn
+    - name: Install and build
+      run: |
+        mkdir -p $GITHUB_WORKSPACE/build
+        yarn
+        yarn build
+        mv $GITHUB_WORKSPACE/.vuepress/dist/* $GITHUB_WORKSPACE/build
+        cp $GITHUB_WORKSPACE/ci/www/* $GITHUB_WORKSPACE/build/
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@4.1.4
+      with:
+        branch: gh-pages
+        folder: build
